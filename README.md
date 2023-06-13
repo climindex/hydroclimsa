@@ -2,7 +2,7 @@
 **Development of a climate and water availability indices app to support decision-making across South African water management areas**
 - This site will be continuously updated throughout the project lifespan.
 
-// **Water Management Areas**
+//**Water Management Areas**
 
 <a href="alternative text"><img src="https://github.com/climindex/climindex.github.io/blob/main/images/water_management_areas.png" align="middle" width="desired width" height="desired heigh"></a>
 
