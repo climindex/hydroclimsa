@@ -11,14 +11,14 @@ Easy to access, up-to-date, user-tailored climate and water availability informa
 ## Project Team
 |Name    | Role | Affiliation |
 |--------|------|-------------|
-|Dr Ramontsheng Rapolaki| Project leader| ARC|
-|Dr Sarah Roffe| Principal Investigator|ARC|
-|Dr Mokhele Moeletsi|Principal Investigator|ARC|
-|Dr Lindumusa Myeni| Researcher|ARC|
-|Dr Michael van der Laan|Researcher|ARC|
-|Dr Adriaan van der Walt| Researcher| UFS|
-|Mr Gert de Nysschen| Developer| ARC|
-|Dimakatso Ndaleni| MSc Student|ARC|
+|Dr Ramontsheng Rapolaki | Project leader| ARC |
+|Dr Sarah Roffe | Principal Investigator | ARC |
+|Dr Mokhele Moeletsi |Principal Investigator|ARC|
+|Dr Lindumusa Myeni | Researcher | ARC |
+|Dr Michael van der Laan | Researcher | ARC |
+|Dr Adriaan van der Walt | Researcher | UFS|
+|Mr Gert de Nysschen | Developer | ARC |
+|Dimakatso Ndaleni | MSc Student | UFS |
 
 
 
