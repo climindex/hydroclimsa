@@ -3,7 +3,7 @@ climate and Water Availability Indices App for water management areas of South A
 # Project Outline
 
 # Project Team
-Dr Ramontsheng Rapolaki: Project leader
+Dr Ramontsheng Rapolaki: Project leader/
 Dr Sarah Roffe: Principal Investigator
 Dr Mokhele Moeletsi: Principal Investigator
 Dr Lindumusa Myeni: Researcher
