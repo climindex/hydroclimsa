@@ -11,7 +11,7 @@ Easy to access, up-to-date, user-tailored climate and water availability informa
 ## Project Team
 |Name    | Role | Affiliation |
 |--------|------|-------------|
-* Dr Ramontsheng Rapolaki: Project leader
+|Dr Ramontsheng Rapolaki| Project leader| ARC|
 * Dr Sarah Roffe: Principal Investigator
 * Dr Mokhele Moeletsi: Principal Investigator
 * Dr Lindumusa Myeni: Researcher
