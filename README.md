@@ -9,6 +9,7 @@ Easy to access, up-to-date, user-tailored climate and water availability informa
 3. To develop a web-based smart app of climate and water availability indices relevant to climate-sensitive activities across South African water management areas.
 
 ## Project Team
+|Name    | Role | Affiliation |
 * Dr Ramontsheng Rapolaki: Project leader
 * Dr Sarah Roffe: Principal Investigator
 * Dr Mokhele Moeletsi: Principal Investigator
