@@ -28,7 +28,7 @@ Easy to access, up-to-date, user-tailored climate and water availability informa
 
 
 
-## Project Meetings
+## Project Meetings / Stakeholder Engagements
 - To be updated
-## Publications
+## Scientific publications and popular articles 
 - To be updated
