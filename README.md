@@ -24,7 +24,7 @@ Easy to access, up-to-date, user-tailored climate and water availability informa
 | Dr Adriaan van der Walt  | Researcher            | UFS         |
 | Mr Gert de Nysschen      | Developer             | ARC         |
 | Ms Dimakatso Ndaleni     | MSc Student           | UFS         |
-| Mr Ngwako Mohale         | MSc Student           | UFS         |
+| Mr Ngwako Mohale         | MSc Student           | ARC / UFS   |
 
 
 
