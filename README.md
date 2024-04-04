@@ -34,9 +34,5 @@ Easy to access, up-to-date, user-tailored climate and water availability informa
 | Ms Namhla Mkiva          | PhD Student             | ARC / NWU                                  |
 
 
-
-
-## Project Meetings / Stakeholder Engagements
-- To be updated
 ## Scientific publications and popular articles 
-- To be updated
+- Roffe, S. (2024) Climate indices for informed agricultural decision-making, Stockfarm. Available online: https://agriorbit.com/climate-indices-for-informed-agricultural-decision-making/
