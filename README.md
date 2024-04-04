@@ -14,17 +14,25 @@ Easy to access, up-to-date, user-tailored climate and water availability informa
 3. To develop a web-based smart app of climate and water availability indices relevant to climate-sensitive activities across South African water management areas.
 
 ## Project Team
-| Name                     | Role                  | Affiliation |
-| -------------------------|-----------------------|-------------|
-| Dr Ramontsheng Rapolaki  | Project leader        | ARC         |
-| Dr Sarah Roffe           | Principal Investigator| ARC         |
-| Dr Mokhele Moeletsi      | Principal Investigator| ARC         |
-| Dr Lindumusa Myeni       | Researcher            | ARC         |
-| Dr Michael van der Laan  | Researcher            | ARC         |
-| Dr Adriaan van der Walt  | Researcher            | UFS         |
-| Mr Gert de Nysschen      | Developer             | ARC         |
-| Ms Dimakatso Ndaleni     | MSc Student           | UFS         |
-| Mr Ngwako Mohale         | MSc Student           | ARC / UFS   |
+| Name                     | Role                    | Affiliation                                |
+| -------------------------|-------------------------|--------------------------------------------|
+| Dr Sarah Roffe           | Project leader          | ARC (Agricultural Research Council)        |
+| Dr Ramontsheng Rapolaki  | Principal Investigator  | SAWS (South African weather Service)       |
+| Dr Mokhele Moeletsi      | Principal Investigator  | ARC                                        |
+| Dr Michael van der Laan  | Researcher              | ARC                                        |
+| Dr Johan Malherbe        | Researcher              | ARC                                        |
+| Ms Teboho Masupha        | Researcher              | ARC                                        |
+| Dr Lindumusa Myeni       | Researcher              | NWU (North-West University)                |
+| Dr Adriaan van der Walt  | Researcher              | UFS (University of the free State)         |
+| Ms Cindy Viviers         | Postdoctoral Researcher | ARC                                        |
+| Mr Gert de Nysschen      | Developer               | ARC                                        |
+| Mr Philip Beukes         | Developer               | ARC                                        |
+| Ms Dimakatso Ndaleni     | MSc Student             | ARC / UFS                                  |
+| Mr Ngwako Mohale         | MSc Student             | ARC / UFS                                  |
+| Ms Nicolle Loader        | MSc Student             | ARC / UFS                                  |
+| Mr Munei Mugeri          | MSc Student             | ARC / UFS                                  |
+| Ms Namhla Mkiva          | PhD Student             | ARC / NWU                                  |
+
 
 
 
