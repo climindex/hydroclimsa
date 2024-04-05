@@ -18,13 +18,13 @@ Easy to access, up-to-date, user-tailored climate and water availability informa
 | Name                     | Role                    | Affiliation                                |
 | -------------------------|-------------------------|--------------------------------------------|
 | Dr Sarah Roffe           | Project leader          | ARC (Agricultural Research Council)        |
-| Dr Ramontsheng Rapolaki  | Principal Investigator  | SAWS (South African weather Service)       |
+| Dr Ramontsheng Rapolaki  | Principal Investigator  | SAWS (South African Weather Service)       |
 | Dr Mokhele Moeletsi      | Principal Investigator  | ARC                                        |
 | Dr Michael van der Laan  | Researcher              | ARC                                        |
 | Dr Johan Malherbe        | Researcher              | ARC                                        |
 | Ms Teboho Masupha        | Researcher              | ARC                                        |
 | Dr Lindumusa Myeni       | Researcher              | NWU (North-West University)                |
-| Dr Adriaan van der Walt  | Researcher              | UFS (University of the free State)         |
+| Dr Adriaan van der Walt  | Researcher              | UFS (University of the Free State)         |
 | Ms Cindy Viviers         | Postdoctoral Researcher | ARC                                        |
 | Mr Gert de Nysschen      | Developer               | ARC                                        |
 | Mr Philip Beukes         | Developer               | ARC                                        |
