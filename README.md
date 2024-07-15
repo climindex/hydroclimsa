@@ -33,6 +33,7 @@ Easy to access, up-to-date, user-tailored climate and water availability informa
 | Mr Ngwako Mohale         | MSc Student             | ARC / UFS                                  |
 | Ms Nicolle Loader        | MSc Student             | ARC / UFS                                  |
 | Mr Munei Mugeri          | MSc Student             | ARC / UFS                                  |
+| Mr Mukovhe Singo         | Intern Researcher       | ARC                                        |
 
 ## Scientific publications (published, submitted, and in preparation) and public media articles 
 - Roffe, S. (2024) Climate indices for informed agricultural decision-making, Stockfarm. Available online: https://agriorbit.com/climate-indices-for-informed-agricultural-decision-making/
