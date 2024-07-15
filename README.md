@@ -34,9 +34,11 @@ Easy to access, up-to-date, user-tailored climate and water availability informa
 | Ms Nicolle Loader        | MSc Student             | ARC / UFS                                  |
 | Mr Munei Mugeri          | MSc Student             | ARC / UFS                                  |
 
-## Scientific publications and public media articles 
+## Scientific publications (published, submitted, and in preparation) and public media articles 
 - Roffe, S. (2024) Climate indices for informed agricultural decision-making, Stockfarm. Available online: https://agriorbit.com/climate-indices-for-informed-agricultural-decision-making/
+- Roffe, S and Singo M. (submitted) Evaluation of ERA5-based reanalysis products for the representation of cold temperature indices over southern Africa. SSAG Conference Proceeding.
+- Myeni, L and Roffe S. (in preparation) Towards effective weather and climate services in South Africa: profiling sectoral needs of weather and climate information. Target journal: Climate Services.
 
 ## Stakeholder engagements and meetings
-- A questionnaire is open towards understanding stakeholders' needs and uses for climate and weather information, and it can be accessed at: https://forms.gle/vume1JRK3DG77RP67
+- A questionnaire is open towards understanding stakeholders' needs and uses for climate and weather information and associated constraints when using this information. It can be accessed at: https://forms.gle/vume1JRK3DG77RP67
 
