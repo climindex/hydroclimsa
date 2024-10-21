@@ -43,3 +43,8 @@ Easy to access, up-to-date, user-tailored climate and water availability informa
 ## Stakeholder engagements and meetings
 - A questionnaire is open towards understanding stakeholders' needs and uses for climate and weather information and associated constraints when using this information. It can be accessed at: https://forms.gle/vume1JRK3DG77RP67
 
+## Climate and water availability indices app
+- More details coming
+
+## Contact us
+Sarah Roffe (RoffeS@arc.agric.za)
