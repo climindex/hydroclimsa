@@ -25,7 +25,7 @@ Easy to access, up-to-date, user-tailored climate and water availability informa
 | Ms Teboho Masupha        | Researcher              | ARC                                        |
 | Dr Lindumusa Myeni       | Researcher              | NWU (North-West University)                |
 | Dr Adriaan van der Walt  | Researcher              | UFS (University of the Free State)         |
-| Ms Cindy Viviers         | Postdoctoral Researcher | ARC                                        |
+| Dr Cindy Viviers         | Postdoctoral Researcher | ARC                                        |
 | Mr Gert de Nysschen      | Developer               | ARC                                        |
 | Mr Philip Beukes         | Developer               | ARC                                        |
 | Ms Namhla Mkiva          | PhD Student             | ARC / NWU                                  |
@@ -37,8 +37,8 @@ Easy to access, up-to-date, user-tailored climate and water availability informa
 
 ## Scientific publications (published, submitted, and in preparation) and public media articles 
 - Roffe, S. (2024) Climate indices for informed agricultural decision-making, Stockfarm. Available online: https://agriorbit.com/climate-indices-for-informed-agricultural-decision-making/
-- Roffe, S and Singo M. (submitted) Evaluation of ERA5-based reanalysis products for the representation of cold temperature indices over southern Africa. SSAG Conference Proceeding.
-- Myeni, L and Roffe S. (in preparation) Towards effective weather and climate services in South Africa: profiling sectoral needs of weather and climate information. Target journal: Climate Services.
+- Roffe, S and Singo M. (2024) Evaluation of ERA5-based reanalysis products for the representation of cold temperature indices over southern Africa, Society of South African Geographers Biennial Conference Proceeding. Available online: https://www.ssag.co.za/wp-content/uploads/2024/11/SSAG_2024_Proceedings.pdf
+- Myeni, L and Roffe S. (Under review) Towards effective weather and climate services in South Africa: profiling sectoral needs and constraints. Target journal: Environmental Development.
 
 ## Stakeholder engagements and meetings
 - A questionnaire is open towards understanding stakeholders' needs and uses for climate and weather information and associated constraints when using this information. It can be accessed at: https://forms.gle/vume1JRK3DG77RP67
