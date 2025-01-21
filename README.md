@@ -1,4 +1,4 @@
-# Development of climate and water avaibility indices App
+# Development of a web-based climate and water avaibility indices app
 **Development of a climate and water availability indices app to support decision-making across South African water management areas**
 - This site will be continuously updated throughout the project lifespan.
 
