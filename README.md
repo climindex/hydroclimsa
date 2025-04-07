@@ -1,6 +1,4 @@
-# Development of a web-based climate and water avaibility indices app
-**Development of a climate and water availability indices app to support decision-making across South African water management areas**
-- This site will be continuously updated throughout the project lifespan.
+# Web-based hydroclimate indices app to support decision-making for South African weather and climate sensitive activities
 
 <h3 align="center"> Water Management Areas </h3>
 
@@ -13,6 +11,20 @@ Easy to access, up-to-date, user-tailored climate and water availability informa
 1. To undertake a review on climate databank apps and climate and water availability indices relevant to climatesensitive activities (e.g. agriculture and water resource management) across South Africa.
 2. To explore the relationships and linkages between climate and water availability indices and the impact thereof on agricultural production.
 3. To develop a web-based smart app of climate and water availability indices relevant to climate-sensitive activities across South African water management areas.
+
+## Hydroclimate indices app
+- More details coming
+
+## Stakeholder engagements and meetings
+- A questionnaire is continuously open towards understanding stakeholders' needs and uses for climate and weather information and associated constraints when using this information. It can be accessed at: https://forms.gle/vume1JRK3DG77RP67
+
+## Scientific publications (published, submitted, and in preparation) and public media articles 
+- Roffe, S. (2024) Climate indices for informed agricultural decision-making, Stockfarm. Available online: https://agriorbit.com/climate-indices-for-informed-agricultural-decision-making/
+- Roffe, S and Singo M. (2024) Evaluation of ERA5-based reanalysis products for the representation of cold temperature indices over southern Africa, Society of South African Geographers Biennial Conference Proceeding. Available online: https://www.ssag.co.za/wp-content/uploads/2024/11/SSAG_2024_Proceedings.pdf
+- Myeni, L and Roffe S. (Under review) Towards effective weather and climate services in South Africa: profiling sectoral needs and constraints. Target journal: Environmental Development.
+
+## Contact us
+Sarah Roffe (RoffeS@arc.agric.za)
 
 ## Project contributors
 | Name                     | Role                    | Affiliation                                |
@@ -34,17 +46,3 @@ Easy to access, up-to-date, user-tailored climate and water availability informa
 | Ms Nicolle Loader        | MSc Student             | ARC / UFS                                  |
 | Mr Munei Mugeri          | MSc Student             | ARC / UFS                                  |
 | Mr Mukovhe Singo         | Intern Researcher       | ARC                                        |
-
-## Scientific publications (published, submitted, and in preparation) and public media articles 
-- Roffe, S. (2024) Climate indices for informed agricultural decision-making, Stockfarm. Available online: https://agriorbit.com/climate-indices-for-informed-agricultural-decision-making/
-- Roffe, S and Singo M. (2024) Evaluation of ERA5-based reanalysis products for the representation of cold temperature indices over southern Africa, Society of South African Geographers Biennial Conference Proceeding. Available online: https://www.ssag.co.za/wp-content/uploads/2024/11/SSAG_2024_Proceedings.pdf
-- Myeni, L and Roffe S. (Under review) Towards effective weather and climate services in South Africa: profiling sectoral needs and constraints. Target journal: Environmental Development.
-
-## Stakeholder engagements and meetings
-- A questionnaire is open towards understanding stakeholders' needs and uses for climate and weather information and associated constraints when using this information. It can be accessed at: https://forms.gle/vume1JRK3DG77RP67
-
-## Climate and water availability indices app
-- More details coming
-
-## Contact us
-Sarah Roffe (RoffeS@arc.agric.za)
