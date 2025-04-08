@@ -1,4 +1,4 @@
-<h3 align="center">  # Web-based hydroclimate indices app to support decision-making for South African weather and climate sensitive activities 
+# Web-based hydroclimate indices app to support decision-making for South African weather and climate sensitive activities 
 
 
 
