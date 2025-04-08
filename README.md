@@ -15,7 +15,7 @@ Easy to access, up-to-date, user-tailored climate and water availability informa
 ## Hydroclimate indices app
 - More details coming
 
-## Stakeholder engagements and meetings
+## Stakeholder engagements
 - A questionnaire is continuously open towards understanding stakeholders' needs and uses for climate and weather information and associated constraints when using this information. It can be accessed at: https://forms.gle/vume1JRK3DG77RP67
 
 ## Scientific publications (published, submitted, and in preparation) and public media articles 
