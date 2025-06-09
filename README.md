@@ -12,7 +12,7 @@ Easy to access, up-to-date, user-tailored climate and water availability informa
 2. To explore the relationships and linkages between climate and water availability indices and the impact thereof on agricultural production.
 3. To develop a web-based smart app of climate and water availability indices relevant to climate-sensitive activities across South African water management areas.
 
-## Hydroclimate indices app
+## Hydrometeorological indices app
 - More details coming
 
 ## Stakeholder engagements
