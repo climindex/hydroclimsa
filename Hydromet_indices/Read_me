@@ -1,7 +1,9 @@
-This directory contains sample weather station data along with metadata, and R code based on this data for the calculation of the various indices presented in the forthcoming hydroclimate indices app.
+This directory contains sample weather station data along with metadata, and R code based on this data for the calculation of the various indices presented in the forthcoming hydrometeorological indices app.
 
 The data is sourced from an Agricultural Research Council weather station in Arcadia, Pretoria (South Africa).
 
 Any reuse of this data must refer to the following reference to acknowledge the data source:
 
 Moeletsi, M.E., Myeni, L., Kaempffer, L.C., Vermaak, D., de Nysschen, G., Henningse, C., Nel, I. and Rowswell, D., 2022. Climate dataset for South Africa by the agricultural research council. Data, 7(8), 117. https://doi.org/10.3390/data7080117
+
+Any applications of the sample code must refer to this GitHub site and acknowledge the reuse/adaptation of this code.
