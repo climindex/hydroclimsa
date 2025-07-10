@@ -21,7 +21,7 @@ Easy to access, up-to-date, user-tailored climate and water availability informa
 ## Scientific publications (published, submitted, and in preparation) and public media articles 
 - Roffe, S. (2024) Climate indices for informed agricultural decision-making, Stockfarm. Available online: https://agriorbit.com/climate-indices-for-informed-agricultural-decision-making/
 - Roffe, S and Singo M. (2024) Evaluation of ERA5-based reanalysis products for the representation of cold temperature indices over southern Africa, Society of South African Geographers Biennial Conference Proceeding. Available online: https://www.ssag.co.za/wp-content/uploads/2024/11/SSAG_2024_Proceedings.pdf
-- Myeni, L and Roffe S. (Under review) Towards effective weather and climate services in South Africa: profiling sectoral needs and constraints. Target journal: Environmental Development.
+- Myeni, L and Roffe S. (2025) Towards effective weather and climate services in South Africa: profiling sectoral needs and constraints. Environmental Development. 55: 101240. https://doi.org/10.1016/j.envdev.2025.101240
 
 ## Contact us
 Sarah Roffe (RoffeS@arc.agric.za)
