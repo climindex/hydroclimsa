@@ -35,12 +35,16 @@ Link will be shared once available.
 
 ## Project outputs 
 This project has produced several research and outreach outputs that contribute to the advancement of weather- and climate-related decision-support for the agricultural sector in South Africa. These outputs are available under the Publications folder and include the following:
+
 -Roffe, S. (2024) Climate indices for informed agricultural decision-making, Stockfarm.
 Available online: https://agriorbit.com/climate-indices-for-informed-agricultural-decision-making/
+
 -Roffe, S. and Singo, M. (2024) Evaluation of ERA5-based reanalysis products for the representation of cold temperature indices over southern Africa, Society of South African Geographers Biennial Conference Proceedings.
 Available online: https://www.ssag.co.za/wp-content/uploads/2024/11/SSAG_2024_Proceedings.pdf
+
 -Myeni, L. and Roffe, S. (2025) Towards effective weather and climate services in South Africa: profiling sectoral needs and constraints. Environmental Development, 55: 101240.
 Available online: https://doi.org/10.1016/j.envdev.2025.101240
+
 
 In addition, selected scripts used to calculate the weather and climate indices featured in the app are openly shared under the Hydromet_indices folder: https://github.com/climindex/hydroclimsa/tree/main/Hydromet_indices. These resources support transparency, reproducibility, and broader use of the indices in research, operational contexts, and policy support.
 
