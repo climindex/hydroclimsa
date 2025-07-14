@@ -24,10 +24,12 @@ More details about the app will be shared soon. In the meantime, please note tha
 As part of this project, we are engaging with stakeholders to better understand their needs, preferences, and challenges related to climate and weather information. These engagements are informing the development and refinement of the hydrometeorological indices app and other project outputs.
 
 * We request that users of the app fill out a stakeholder needs and constraints questionnaire:
+
 This questionnaire is designed to help the ARC Agrometeorology and Climate Science Division understand how stakeholders currently use weather and climate information, which formats and indices are most useful, and what constraints they face in accessing or applying this information.
 Access the questionnaire via: https://forms.gle/vume1JRK3DG77RP67
 
-* We request that users of the app complete a user feedback questionnaire (coming soon)
+* We request that users of the app complete a user feedback questionnaire (coming soon):
+
 This evaluation form will collect feedback on the usability, functionality, and relevance of the hydrometeorological indices app to guide future improvements.
 Link will be shared once available.
 
@@ -55,5 +57,6 @@ In addition to the app development, the project has supported a range of researc
 In addition to the development of the app, the project has produced several research outputs, with some work already complete and others ongoing. These contributions reflect the collaborative, cross-institutional nature of the initiative and its broader goal of supporting agriculture through weather- and climate-informed decision-making tools.
 
 Feel free to email Sarah Roffe (RoffeS@arc.agric.za) if you have any comments, requests or questions. 
+
 
 <a href="alternative text"><img src="https://github.com/climindex/hydroclimsa/blob/main/Figures/Logo_github.png" align="middle" width="desired width" height="desired heigh"></a>
