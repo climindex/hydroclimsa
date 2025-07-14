@@ -23,10 +23,15 @@ Easy to access, up-to-date, user-tailored climate and water availability informa
 - Roffe, S and Singo M. (2024) Evaluation of ERA5-based reanalysis products for the representation of cold temperature indices over southern Africa, Society of South African Geographers Biennial Conference Proceeding. Available online: https://www.ssag.co.za/wp-content/uploads/2024/11/SSAG_2024_Proceedings.pdf
 - Myeni, L and Roffe S. (2025) Towards effective weather and climate services in South Africa: profiling sectoral needs and constraints. Environmental Development. 55: 101240. https://doi.org/10.1016/j.envdev.2025.101240
 
-## Contact us
-Sarah Roffe (RoffeS@arc.agric.za)
 
 ## Project contributors
+This is a multi-institution project funded by the Water Research Commission (Project no. C2023/2024-01182). 
+
+The forthcoming app is being developed by a researchers from the Agrometeorology and Water Science Divisions, along with developers at the Agricultural Research Council (ARC) as well as other collaborators. Special thanks go to Mr Philip Beukes, who served as the lead developer and played a central role in the design, implementation, and functionality of the platform. His contribution has been instrumental to the success of this tool. Alongside Dr Sarah Roffe, Dr Johan Malherbe, Dr Michael van der Laan and Dr Cindy Viviers made significant contributions to the inclusion of indices presented in the forthcoming app.
+
+The table below lists all project contirbutors
+
+
 | Name                     | Role                    | Affiliation                                |
 | -------------------------|-------------------------|--------------------------------------------|
 | Dr Sarah Roffe           | Project leader          | ARC (Agricultural Research Council)        |
@@ -46,3 +51,5 @@ Sarah Roffe (RoffeS@arc.agric.za)
 | Ms Nicolle Loader        | MSc Student             | ARC / UFS                                  |
 | Mr Munei Mugeri          | MSc Student             | ARC / UFS                                  |
 | Mr Mukovhe Singo         | Intern Researcher       | ARC                                        |
+
+Feel free to email Sarah Roffe (RoffeS@arc.agric.za) if you have any comments, requests or questions. 
