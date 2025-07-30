@@ -9,14 +9,14 @@ The agricultural sector is highly sensitive to weather- and climate-related risk
 
 For short-term decisions, farmers need timely weather insights, such as rainfall over the past 10 days—to evaluate recent conditions and anticipate near-term risks. Likewise, supporting information on water availability, including surface water availability indices, can guide actions related to irrigation, grazing, and water resource use. Yet, such information is not always readily available to agricultural stakeholders in South Africa. It typically requires a high level of technical skill to extract from raw datasets and is not consistently operationalised or accessible in formats suited to end users.
 
-This project addresses that gap through the development of a web-based Agrohydrometeorological Indices App, known as the Weather Risks site. The app delivers weather and water availability information in the form of targeted indices tailored to agricultural needs. These indices are designed to simplify complex datasets and provide meaningful insights to help farmers and agricultural advisors manage weather-related risks.
+This project addresses that gap through the development of a web-based Agrohydrometeorological Indices App, known as the Weather Risk site. The app delivers weather and water availability information in the form of targeted indices tailored to agricultural needs. These indices are designed to simplify complex datasets and provide meaningful insights to help farmers and agricultural advisors manage weather-related risks.
 
 As part of the initiative, we conducted a review of existing weather, climate, and water information tools and identified indices most relevant to agricultural decision-making in the South African context. The resulting app provides a range of short-term historical and, where feasible, forecast indices related to weather risk and water availability. The interface is intentionally user-friendly, designed to support early warning, guide short-term monitoring, and enable timely, responsive decisions in the face of changing conditions.
 
 Ultimately, the app serves as a national-scale resource to help agricultural users evaluate weather-related risks and distinguish between favourable and adverse conditions for farming across South Africa.
 
 
-## The Weather Risks site
+## The Weather Risk site
 More details about the app will be shared soon. In the meantime, please note that all supporting information and documentation related the app will be added to the App_manual folder: https://github.com/climindex/hydroclimsa/tree/main/App_manual
 
 
@@ -52,7 +52,7 @@ In addition, selected scripts used to calculate the weather indices featured in 
 ## Project contributors
 This is a multi-institutional project funded by the Water Research Commission (Project no. C2023/2024-01182).
 
-The forthcoming Weather Risks App is being developed by researchers from the Agrometeorology and Water Science Divisions, along with software developers at the Agricultural Research Council (ARC), in collaboration with other partners. Special thanks go to Mr Philip Beukes, who served as the lead developer and played a central role in the design, implementation, and overall functionality of the platform. His contribution has been instrumental to the success of this tool. Mr Gert de Nysschen also supported the app development.
+The forthcoming Weather Risk App is being developed by researchers from the Agrometeorology and Water Science Divisions, along with software developers at the Agricultural Research Council (ARC), in collaboration with other partners. Special thanks go to Mr Philip Beukes, who served as the lead developer and played a central role in the design, implementation, and overall functionality of the platform. His contribution has been instrumental to the success of this tool. Mr Gert de Nysschen also supported the app development.
 
 Dr Sarah Roffe led the scientific coordination of the app, with Dr Johan Malherbe, Dr Michael van der Laan, and Dr Cindy Viviers contributing significantly to the identification and integration of the weather and water indices presented in the app. Dr Ramontsheng Rapolaki contributed to the conception of the app idea, while stakeholder engagement work with Dr Lindumusa Myeni supported the selection and time scales of the weather indices included.
 
