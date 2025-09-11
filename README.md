@@ -1,4 +1,4 @@
-# Development of a web-based agrohydrometeorological indices app to support decision-making for weather- and climate-sensitive agricultural activities in South Africa, known as the WeatherRisks site 
+# Development of a web-based hydrometeorological indices app to support decision-making for weather- and climate-sensitive agricultural activities in South Africa, known as the WeatherRisks site 
 
 
 
