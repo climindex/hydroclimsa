@@ -38,6 +38,8 @@ The Weather Risk app is intended to assist with short-term agricultural planning
 
 4. Navigation overview
 
+4.1. Accessing video tutorials
+
 5. Overview of available indices
 
 5.1. Low temperature indices
