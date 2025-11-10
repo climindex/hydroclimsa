@@ -21,11 +21,16 @@ Visit the Weather Risk app [Github repository](https://github.com/climindex/hydr
 ---
 
 ## Table of contents
-1 [Acknowledgments]()
+1 [Acknowledgments](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#1-acknowledgments)
+
 2
+
 3
+
 4
+
 5
+
 
 ## 1 Acknowledgments
 
