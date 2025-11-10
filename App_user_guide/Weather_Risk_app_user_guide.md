@@ -1,4 +1,6 @@
-<h1 style="text-align:center;">Weather Risk App user guide</h1>
+<div align="center">
+  <h1>Weather Risk App User Guide</h1>
+</div>
 
 <p align="center">
 by Dr Sarah Roffe 
