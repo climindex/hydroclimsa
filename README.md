@@ -47,7 +47,7 @@ Available online: https://www.ssag.co.za/wp-content/uploads/2024/11/SSAG_2024_Pr
 Available online: https://doi.org/10.1016/j.envdev.2025.101240
 
 
-In addition, selected scripts used to calculate the weather indices featured in the app are openly shared under the Hydromet_indices folder: https://github.com/climindex/hydroclimsa/tree/main/Hydromet_indices. These resources support transparency, reproducibility, and broader use of the indices in research, operational contexts, and policy support.
+In addition, selected scripts used to calculate the weather indices featured in the app are openly shared under the [Hydromet_indices folder](https://github.com/climindex/hydroclimsa/tree/main/Hydromet_indices). These resources support transparency, reproducibility, and broader use of the indices in research, operational contexts, and policy support.
 
 
 ## Project contributors
