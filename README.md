@@ -19,7 +19,7 @@ Ultimately, the app serves as a national-scale resource to help agricultural use
 ## The Weather Risk site
 The Weather Risk site will be freely accessible.
 
-Further details about the app will be shared soon. In the meantime, all supporting information and documentation will be available in the App_user_guide folder: [https://github.com/climindex/hydroclimsa/tree/main/App_manual](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md)
+Further details about the app will be shared soon. In the meantime, all supporting information and documentation will be available via the [App_user_guide https](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md)
 
 ## Project contributions: Stakeholder engagements
 As part of this project, we are continously engaging with stakeholders to better understand their needs, preferences, and challenges related to climate and weather information. These engagements are informing the development and refinement of the hydrometeorological indices app and other project outputs.
