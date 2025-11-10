@@ -34,6 +34,9 @@ Visit the Weather Risk app [Github repository](https://github.com/climindex/hydr
 
 
 ## 1 Acknowledgments
+This platform was developed through the support of the Water Research Commission (WRC project number: C2023/2024-01182), whose funding contribution is gratefully acknowledged.
+The Weather Risk app was developed by the Agricultural Research Council (ARC), with the support of a dedicated team of developers, researchers, and collaborators. Mr Philip Beukes served as the lead developer and was instrumental in bringing the app to life, from concept to execution. He led the overall development process, including platform design, integration of core functionalities, and the technical implementation of the weather indices. He calculated the weather indices from gridded datasets and prepared them for visualisation within the app. He also played a central role in processing and preparing the gridded weather data and contributed to the implementation of the forecast functionality. In addition, he integrated the water indices developed by other team members into the app, ensuring that the outputs were correctly formatted and displayed. His expertise and commitment were critical to the project’s success; without his contributions, the Weather Risk app would not exist in its current form.
+Alongside Mr Beukes’s foundational work, we acknowledge the valuable contributions of the following team members and collaborators, as summarised below:
 
 
 
