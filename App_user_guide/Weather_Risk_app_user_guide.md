@@ -1,5 +1,5 @@
 <p align="center">
-<h1>Weather Risk app user guide</h1>
+  <h1>Weather Risk app user guide</h1>
 </p>
 
 <p align="center">
