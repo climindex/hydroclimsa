@@ -41,14 +41,22 @@ Visit the Weather Risk app [Github repository](https://github.com/climindex/hydr
 
 
 ## 3 Accessing the App
-To access the Weather Risk site, open the following URL in a web browser:
+**To access the Weather Risk site, open the following URL in a web browser:**
+
 [link coming]
-The site has been tested and works best on the following web browsers:
+
+**The site has been tested and works best on the following web browsers:**
+
 •	Google Chrome
+
 •	Microsoft Edge
+
 •	Mozilla Firefox
-Important usage notes:
+
+**Important usage notes:**
+
 •	A stable internet connection is required for optimal performance.
+
 •	The app is currently supported for use on desktop or laptop computers only. It is not optimised for mobile phones or tablets.
 
 
