@@ -18,4 +18,23 @@ Agrometeorology Division, Agricultural Research Council – Natural Resources an
 
 Visit the Weather Risk app [Github repository](https://github.com/climindex/hydroclimsa) to find out more about the Weather Risk app and supporting research.
 
+---
+
+## Table of contents
+1 [Acknowledgments]()
+2
+3
+4
+5
+
+## 1 Acknowledgments
+
+
+## 2 Introduction
+
+
+## 3 Accessing the App
+
+
+## 4 Navigation overview
 
