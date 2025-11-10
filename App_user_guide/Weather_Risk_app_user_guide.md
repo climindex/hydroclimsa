@@ -1,5 +1,7 @@
 # Weather Risk app user guide
+
 by Dr Sarah Roffe 
+
 Agrometeorology Division, Agricultural Research Council – Natural Resources and Engineering (ARC-NRE), South Africa
 
 <p align="center">
