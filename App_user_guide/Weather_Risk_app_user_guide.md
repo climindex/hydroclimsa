@@ -1,6 +1,4 @@
-<p align="center">
-  <h1>Weather Risk Project</h1>
-</p>
+<p align="center"><h1>Weather Risk App user guide</h1></p>
 
 <p align="center">
 by Dr Sarah Roffe 
