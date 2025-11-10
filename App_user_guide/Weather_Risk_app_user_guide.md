@@ -20,6 +20,14 @@ Agrometeorology Division, Agricultural Research Council – Natural Resources an
 Visit the Weather Risk app [Github repository](https://github.com/climindex/hydroclimsa) to find out more about the Weather Risk app and supporting research.
 
 ---
+## Summary
+
+This document provides a user guide for the Weather Risk platform—a web-based tool developed by the Agrometeorology and Water Science Divisions, together with developers at the Agricultural Research Council (ARC). The app presents a suite of weather and water indices relevant to agricultural decision-making across South Africa, with near-real-time updates and short- to medium-range forecast data available for selected indices.
+
+The user guide provides step-by-step assistance on navigating the platform, interpreting the displayed indices, and accessing forecast information. It is designed to support both first-time users and experienced professionals seeking specific operational insights.
+
+The Weather Risk app is intended to assist with short-term agricultural planning and decision-making—typically on daily to weekly timescales. It serves a wide range of stakeholders, including farmers, agricultural extension and field officers, farmer organisations, planners and technicians, cooperatives, seed and agrochemical companies, agricultural insurance providers, local government, policymakers, and researchers.
+
 
 ## Table of contents
 1. [Acknowledgments](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#1-acknowledgments)
