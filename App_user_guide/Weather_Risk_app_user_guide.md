@@ -57,7 +57,7 @@ Visit the Weather Risk app [Github repository](https://github.com/climindex/hydr
 
 •	A stable internet connection is required for optimal performance.
 
-•	The app is currently supported for use on desktop or laptop computers only. It is not optimised for mobile phones or tablets.
+•	The app is currently supported for use on desktop and laptop computers only. It has not yet been optimised for mobile phones or tablets, but compatibility will be introduced in future updates.
 
 
 ## 4 Navigation overview
