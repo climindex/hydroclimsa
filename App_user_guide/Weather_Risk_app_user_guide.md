@@ -52,6 +52,7 @@ Alongside Mr Beukes’s foundational work, we acknowledge the valuable contribut
 | Dr Ramontsheng Rapolaki | Formerly ARC, now South African Weather Service | Funding acquisition; contributed to the initial app concept; co-led implementation of the forecast functionality |
 | Dr Lindumusa Myeni | Formerly ARC, now North West University | Contributed research to the selection of weather indices |
 
+Finally, we thank our colleagues and partners who provided feedback and support throughout the development process.
 
 ## 2 Introduction
 
