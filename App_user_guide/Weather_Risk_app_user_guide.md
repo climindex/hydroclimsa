@@ -41,8 +41,17 @@ The Weather Risk app was developed by the Agricultural Research Council (ARC), w
 Alongside Mr Beukes’s foundational work, we acknowledge the valuable contributions of the following team members and collaborators, as summarised below:
 
 
-|Contributor|
-|-----------|--------------------------
+| **Contributor** | **Affiliation** | **Key contribution(s)** |
+|-----------------|-----------------|--------------------------|
+| Dr Sarah Roffe | ARC | Project leader; funding acquisition; contributed to the initial app concept; coordinated app development; led selection and development of weather indices; contributed to selection and processing of water indices; co-led implementation of the forecast functionality; led authoring of the user manual; led user engagement and testing coordination |
+| Dr Johan Malherbe | ARC | Contributed to the initial app concept and development coordination; contributed to the selection and development of weather indices; advised on app layout and functionality; assisted in manual development; contributed to the preparation of gridded weather data |
+| Dr Michael van der Laan | ARC | Contributed to the initial app concept and development coordination; led selection and development of water indices; assisted in manual development |
+| Dr Teboho Masupha | ARC | Contributed to manual development; assisted with user engagement and testing coordination |
+| Mr Gert de Nysschen | ARC | Contributed to the initial app concept; assisted in manual development; contributed to user engagement and testing coordination |
+| Dr Cindy Viviers | Formerly ARC, now a Private consultant | Contributed to the selection and development of water indices; processed data for some of the water indices |
+| Dr Ramontsheng Rapolaki | Formerly ARC, now South African Weather Service | Funding acquisition; contributed to the initial app concept; co-led implementation of the forecast functionality |
+| Dr Lindumusa Myeni | Formerly ARC, now North West University | Contributed research to the selection of weather indices |
+
 
 ## 2 Introduction
 
