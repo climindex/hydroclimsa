@@ -1,6 +1,6 @@
-# Development of a web-based hydrometeorological indices app to support decision-making for weather- and climate-sensitive agricultural activities in South Africa, known as the Weather Risk site 
+# The Weather Risk site 
 
-
+This platform was developed through a project funded by the Water Research Commission (WRC) titled “Development of a web-based hydrometeorological indices app to support decision-making for weather- and climate-sensitive agricultural activities in South Africa”
 
 <a href="alternative text"><img src="https://github.com/climindex/hydroclimsa/blob/main/Figures/Github_page_pic.png" align="middle" width="desired width" height="desired heigh"></a>
 
