@@ -25,7 +25,7 @@ Visit the Weather Risk app [Github repository](https://github.com/climindex/hydr
 
 2 [Introduction](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#2-introduction)
 
-3 [Accessing the App]()
+3 [Accessing the App](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#3-accessing-the-app)
 
 4
 
