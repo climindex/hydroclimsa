@@ -4,7 +4,8 @@
 
 <p align="center">
 by Dr Sarah Roffe 
-
+</p>
+<p align="center">
 Agrometeorology Division, Agricultural Research Council – Natural Resources and Engineering (ARC-NRE), South Africa
 </p>
 
