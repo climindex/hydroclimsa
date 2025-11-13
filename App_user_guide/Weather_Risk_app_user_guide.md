@@ -58,7 +58,7 @@ The Weather Risk app is intended to assist with short-term agricultural planning
 
 5.8. Water indices
 
-6. Input data to calculate the indices
+6. [Input data to calculate the indices](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#6-input-data-to-calculate-the-indices)
 
 6.1. Weather indices 
 
