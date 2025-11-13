@@ -64,6 +64,10 @@ The Weather Risk app is intended to assist with short-term agricultural planning
 
 6.2. Water availability indices
 
+7. Known limitations
+
+8. Feedback and support
+
 
 ## 1. Acknowledgments
 
@@ -158,5 +162,19 @@ Finally, we thank our colleagues and partners who provided feedback and support 
 
 [RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
 
-## 7.
+## 6. Input data to calculate the indices
+
+[RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
+
+### 6.1. Weather indices 
+
+[RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
+
+### 6.2. Water availability indices
+
+[RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
+
+## 7. Known limitations
+
+[RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
 
