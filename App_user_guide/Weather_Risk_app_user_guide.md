@@ -64,7 +64,7 @@ The Weather Risk app is intended to assist with short-term agricultural planning
 
 6.2. Water availability indices
 
-7. Known limitations
+7. [Known limitations](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#7-known-limitations)
 
 8. Feedback and support
 
