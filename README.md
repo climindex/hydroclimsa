@@ -16,23 +16,24 @@ As part of the initiative, we conducted a review of existing weather, climate, a
 Ultimately, the app serves as a national-scale resource to help agricultural users evaluate weather-related risks and distinguish between favourable and adverse conditions for farming across South Africa.
 
 
-## The Weather Risk site
-The Weather Risk site will be freely accessible.
+## The Weather Risk App
+The Weather Risk app is a freely accessible web-based tool designed to deliver weather and water availability indices relevant to agriculture across South Africa. It integrates near–real-time observational data, short-term forecasts, and key water indicators to support informed decision-making at daily to weekly timescales. Although the primary platform is free to use, future developments may include optional paid products.
 
-Further details about the app will be shared soon. In the meantime, all supporting information and documentation will be available via the [App_user_guide](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md)
+Further details about the app will be shared soon. In the meantime, all supporting information and documentation are available via the [App_user_guide](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md)
+
 
 ## Project contributions: Stakeholder engagements
-As part of this project, we are continously engaging with stakeholders to better understand their needs, preferences, and challenges related to climate and weather information. These engagements are informing the development and refinement of the hydrometeorological indices app and other project outputs.
+As part of this project, we are continously engaging with stakeholders to better understand their needs, preferences, and challenges related to weather and climate information. These engagements are informing the development and refinement of the hydrometeorological indices app and other project outputs.
 
 * We request that users of the app fill out a stakeholder needs and constraints questionnaire:
 
-This questionnaire is designed to help the ARC Agrometeorology Division understand how stakeholders currently use weather and climate information, which formats and indices are most useful, and what constraints they face in accessing or applying this information.
-Access the questionnaire via: https://forms.gle/vume1JRK3DG77RP67
+This questionnaire is designed to help the ARC Agrometeorology Division understand how stakeholders currently use weather and climate information, which formats and indices are most useful, and what constraints they face in accessing or applying this information. In turn it can help us strengthen the weather and climate services we offer. Please contribute to answering this questionnaire, accesible via: https://forms.gle/vume1JRK3DG77RP67
 
-* We request that users of the app complete a user feedback questionnaire (coming soon):
+* We also request that users of the Weather Risk App complete a user feedback questionnaire (coming soon):
 
 This evaluation form will collect feedback on the usability, functionality, and relevance of the hydrometeorological indices app to guide future improvements.
 Link will be shared once available.
+
 
 ## Project outputs 
 This project has produced several research and outreach outputs that contribute to the advancement of weather- and climate-related decision-support for the agricultural sector in South Africa. These outputs are available under the Publications folder and include the following:
@@ -46,6 +47,7 @@ Available online: https://www.ssag.co.za/wp-content/uploads/2024/11/SSAG_2024_Pr
 -Myeni, L. and Roffe, S. (2025) Towards effective weather and climate services in South Africa: profiling sectoral needs and constraints. Environmental Development, 55: 101240.
 Available online: https://doi.org/10.1016/j.envdev.2025.101240
 
+-Roffe, S. (2025) Shaping South Africa's weather and climate services - together for agriculture. AgriAbout. Available online: https://heyzine.com/flip-book/0d675fc05b.html
 
 In addition, selected scripts used to calculate the weather indices featured in the app are openly shared under the [Hydromet_indices folder](https://github.com/climindex/hydroclimsa/tree/main/Hydromet_indices). These resources support transparency, reproducibility, and broader use of the indices in research, operational contexts, and policy support.
 
