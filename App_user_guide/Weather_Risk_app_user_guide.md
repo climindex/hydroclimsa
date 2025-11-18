@@ -190,6 +190,17 @@ Finally, we thank our colleagues and partners who provided feedback and support 
 
 [RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
 
+We welcome your input to help improve the Weather Risk platform, which will be continuously updated to meet the evolving needs of users across the agricultural sector. User feedback plays a direct role in shaping these updates, ensuring the platform remains relevant and practical. The following types of feedback and support are encouraged:
+
+•	**Suggest a new index:** Share ideas for additional indices, improvements to existing ones, or new features that could enhance the app’s relevance and usability.
+
+•	**Report a bug:** Let us know about any technical issues or unexpected behaviour you encounter while using the app.
+
+•	**Request training or demonstrations:** If you or your team would benefit from a walkthrough of the app’s features, we are happy to arrange a training or demo session.
+
+•	**Share general feedback:** We also encourage broader feedback, including user stories, reflections on how the app supports your work, or suggestions for future development directions.
+
+To provide feedback, request support, or make enquiries, please contact Dr Sarah Roffe (see [Section 9: Contact Information](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#9-contact-and-further-information)) or complete our feedback questionnaire, available via the [GitHub repository stakeholder engagements section](https://github.com/climindex/hydroclimsa#project-contributions-stakeholder-engagements).
 
 
 ## 9. Contact and further information
