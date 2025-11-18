@@ -42,27 +42,27 @@ The Weather Risk app is intended to assist with short-term agricultural planning
 
 3. [Accessing the App](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#3-accessing-the-app)
 
-4. Navigation overview
+4. [Navigation overview](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#4-navigation-overview)
 
-  4.1. Accessing video tutorials
+    4.1. [Accessing video tutorials]()
 
-5. Overview of available indices
+5. [Overview of available indices](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#5-overview-of-available-indices)
 
-  5.1. Low temperature indices
+    5.1. Low temperature indices
 
-  5.2. High temperature indices
+    5.2. High temperature indices
 
-  5.3. Thermal comfort indices
+    5.3. Thermal comfort indices
 
-  5.4. Fire index
+    5.4. Fire index
 
-  5.5. Rain indices
+    5.5. Rain indices
 
-  5.6. Evaporation index
+    5.6. Evaporation index
 
-  5.7. Wind index
+    5.7. Wind index
 
-  5.8. Water indices
+    5.8. Water indices
 
 6. [Input data to calculate the indices](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#6-input-data-to-calculate-the-indices)
 
@@ -133,10 +133,37 @@ Finally, we thank our colleagues and partners who provided feedback and support 
 
 [RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
 
+### 4.1. Accessing video tutorials
 
 ## 5. Overview of available indices
 
 [RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
+
+The Weather Risk app provides a suite of weather- and water-related indices designed largely to support agricultural decision-making. All weather indices are based on observed station data that are updated on a near-real-time basis, typically with a delay of approximately one day. Forecast data is available for selected indices and is displayed as daily values over a 7-day forecast period. These forecast values may represent totals (e.g., rainfall), averages (e.g., temperature), or the number of hours per day in a category (e.g., frost severity levels). For some indices, a summary map is provided to show the total or average across the full 7-day period.
+
+The water indices include one index that reflects monthly anomalies in surface water extent derived from satellite-based Earth observation imagery. The remaining indices are based on long-term hydroclimatologies developed from measured or satellite data, providing a historical baseline to assess deviations from typical water availability.
+
+Indices are organised into thematic categories, accessible via the side tab menu on the left of the interface (see [Section 4 Naviation overview](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#4-navigation-overview)). Each category contains one or more indices related to a specific weather element or agricultural risk.
+
+The current index categories include:
+
+•	Low temperature indices – e.g., frost occurrence
+
+•	High temperature indices – e.g., hottest daily temperature during the last 10 days
+
+•	Thermal comfort indices – e.g., Temperature-Humidity Index
+
+•	Fire danger index (FDI) – e.g., Lowveld FDI
+
+•	Rainfall indices – e.g., total rainfall during the last 10 days
+
+•	Evaporation indices – e.g., monthly potential evapotranspiration
+
+•	Wind indices – e.g., number of damaging wind days
+
+•	Water indices – e.g., monthly surface water anomaly
+
+Each index is displayed spatially via the interactive map interface, with a consistent layout that includes date selection tools, legends, and index-specific guidance. Detailed descriptions and example screenshots for each index are provided in the sections that follow.
 
 ### 5.1. Low temperature indices
 
