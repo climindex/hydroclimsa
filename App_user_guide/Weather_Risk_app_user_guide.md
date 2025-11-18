@@ -44,35 +44,37 @@ The Weather Risk app is intended to assist with short-term agricultural planning
 
 4. Navigation overview
 
-4.1. Accessing video tutorials
+  4.1. Accessing video tutorials
 
 5. Overview of available indices
 
-5.1. Low temperature indices
+  5.1. Low temperature indices
 
-5.2. High temperature indices
+  5.2. High temperature indices
 
-5.3. Thermal comfort indices
+  5.3. Thermal comfort indices
 
-5.4. Fire index
+  5.4. Fire index
 
-5.5. Rain indices
+  5.5. Rain indices
 
-5.6. Evaporation index
+  5.6. Evaporation index
 
-5.7. Wind index
+  5.7. Wind index
 
-5.8. Water indices
+  5.8. Water indices
 
 6. [Input data to calculate the indices](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#6-input-data-to-calculate-the-indices)
 
-6.1. Weather indices 
+  6.1. Weather indices 
 
-6.2. Water availability indices
+  6.2. Water availability indices
 
 7. [Known limitations](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#7-known-limitations)
 
 8. Feedback and support
+
+9. Contact and further information 
 
 
 ## 1. Acknowledgments
@@ -183,4 +185,20 @@ Finally, we thank our colleagues and partners who provided feedback and support 
 ## 7. Known limitations
 
 [RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
+
+## 8. Feedback and support
+
+[RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
+
+
+
+## 9. Contact and further information
+
+[RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
+
+For further information, please access our GitHub repository [README.md file](https://github.com/climindex/hydroclimsa/blob/main/README.md) or contact:
+Dr Sarah Roffe
+Agrometeorology Division
+Agricultural Research Council
+Email: RoffeS@arc.agric.za
 
