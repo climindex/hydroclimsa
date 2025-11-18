@@ -135,6 +135,9 @@ Finally, we thank our colleagues and partners who provided feedback and support 
 
 ### 4.1. Accessing video tutorials
 
+[RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
+
+
 ## 5. Overview of available indices
 
 [RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
