@@ -105,6 +105,10 @@ Finally, we thank our colleagues and partners who provided feedback and support 
 
 [RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
 
+The Weather Risk platform provides a central, accessible source of weather and water availability indices designed to support short-term agricultural planning and decision-making, from daily operational choices to week-ahead preparation. It combines short-term historical records with selected forecast information and, where relevant, longer-term hydrological climatology.
+Weather indices are derived from near-real-time historical data (typically updated with a one to two-day delay), with several indices also available in forecast form. Water-availability indices are provided as both near-real-time monthly updates and as static layers representing recent long-term hydrological conditions. All indices are calculated externally and integrated into the platform as processed outputs, ensuring efficient, consistent delivery of information.
+
+The platform is intended to support a wide range of agricultural stakeholders, including, but not limited to, farmers, agricultural extension officers, field officers, cooperatives, farmer organisations, planners and technicians, seed and agrochemical companies, agricultural insurance providers, agrometeorologists, disaster risk managers, local government, agricultural policymakers, and researchers. By presenting clear, practical indices relevant to crop production, livestock welfare, rangeland management, and risk preparedness, the Weather Risk platform offers regionally appropriate, decision-focused information suitable for on-farm use as well as broader advisory and planning contexts.
 
 ## 3. Accessing the App
 
