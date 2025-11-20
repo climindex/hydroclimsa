@@ -157,7 +157,7 @@ The current index categories include:
 
 •	Low temperature indices – e.g., frost occurrence
 
-•	High temperature indices – e.g., hottest daily temperature during the last 10 days
+•	High temperature indices – e.g., highest daily temperature during the last 10 days
 
 •	Thermal comfort indices – e.g., Temperature-Humidity Index
 
