@@ -213,6 +213,11 @@ Each index is displayed spatially via the interactive map interface, with a cons
 
 [RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
 
+The weather-related indices presented in Sections 5.1 to 5.7 are based on interpolated weather data from the ARC-NRE weather station network, which comprises over 600 stations located across all agroclimatic zones of South Africa (Moeletsi et al. 2022). These stations record at least hourly data for key variables, including rainfall, air temperature, relative humidity, solar radiation, and wind speed and direction, while potential evapotranspiration is also calculated at the same temporal resolution [(Moeletsi et al., 2022, Data, 7(8):117)](https://doi.org/10.3390/data7080117). All variables are summarised into daily totals, averages, minima, and/or maxima, which are then interpolated to generate daily GeoTIFF files at a 1 km grid resolution. Details of the interpolation methodology are available in [Malherbe et al. (2016, Natural Hazards, 80:657-681)](https://doi.org/10.1007/s11069-015-1989-y) and forthcoming work. 
+
+In addition, some indices incorporate short- to medium-range forecast data, available at hourly resolution for up to seven days ahead. This forecast data is produced by dynamically downscaling the [National Centers for Environmental Prediction (NCEP) Global Forecast System (GFS)](https://www.ncei.noaa.gov/products/weather-climate-models/global-forecast) data from a 28 km to a 12 km grid using the Weather Research and Forecasting (WRF) model. Further information on this forecast system is provided in [Malherbe et al. (2025, Environmental Development, 56:101253)](https://doi.org/10.1016/j.envdev.2025.101253). 
+
+
 ### 6.2. Water availability indices
 
 [RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
