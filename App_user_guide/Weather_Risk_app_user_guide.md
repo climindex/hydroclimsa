@@ -48,17 +48,17 @@ The Weather Risk app is intended to assist with short-term agricultural planning
 
 5. [Overview of available indices](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#5-overview-of-available-indices)
 
-    5.1. Low temperature indices
+    5.1. [Low temperature indices](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#51-low-temperature-indices)
 
-    5.2. High temperature indices
+    5.2. [High temperature indices](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#52-high-temperature-indices)
 
-    5.3. Thermal comfort indices
+    5.3. [Thermal comfort indices](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#53-thermal-comfort-indices)
 
-    5.4. Fire index
+    5.4. [Fire index](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#54-fire-index)
 
-    5.5. Rain indices
+    5.5. [Rain indices](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#55-rain-indices)
 
-    5.6. Evaporation index
+    5.6. Evaporation indices
 
     5.7. Wind index
 
@@ -193,7 +193,7 @@ Each index is displayed spatially via the interactive map interface, with a cons
 
 [RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
 
-### 5.6. Evaporation index
+### 5.6. Evaporation indices
 
 [RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
 
