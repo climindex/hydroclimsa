@@ -155,21 +155,21 @@ Indices are organised into thematic categories, accessible via the side tab menu
 
 The current index categories include:
 
-•	Low temperature indices – e.g., frost occurrence
+•	**Low temperature indices** – e.g., frost occurrence
 
-•	High temperature indices – e.g., highest daily temperature during the last 10 days
+•	**High temperature indices** – e.g., highest daily temperature during the last 10 days
 
-•	Thermal comfort indices – e.g., Temperature-Humidity Index
+•	**Thermal comfort indices** – e.g., Temperature-Humidity Index
 
-•	Fire danger index (FDI) – e.g., Lowveld FDI
+•	**Fire danger index (FDI)** – e.g., Lowveld FDI
 
-•	Rainfall indices – e.g., total rainfall during the last 10 days
+•	**Rainfall indices** – e.g., total rainfall during the last 10 days
 
-•	Evaporation indices – e.g., monthly potential evapotranspiration
+•	**Evaporation indices** – e.g., monthly potential evapotranspiration
 
-•	Wind indices – e.g., number of damaging wind days
+•	**Wind indices** – e.g., number of damaging wind days
 
-•	Water indices – e.g., monthly surface water anomaly
+•	**Water indices** – e.g., monthly surface water anomaly
 
 Each index is displayed spatially via the interactive map interface, with a consistent layout that includes date selection tools, legends, and index-specific guidance. Detailed descriptions and example screenshots for each index are provided in the sections that follow.
 
@@ -221,6 +221,16 @@ In addition, some indices incorporate short- to medium-range forecast data, avai
 ### 6.2. Water availability indices
 
 [RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
+
+All of the water availability indices are based on datasets obtained from external data providers. Some indices are newly calculated using these external datasets, while others are pre-existing indices developed by the data providers themselves. While selected dataset details are summarised in [Section 5.8](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#58-water-indices), the following data provisions should be noted:
+
+-	**Irrigation extent per quaternary catchment** was derived from the [2023 Field Crop Boundaries dataset](https://agis.nda.agric.za/portal/home/item.html?id=b63baa05c0764b559c75a15863c920a9), developed by the [National Crop Statistics Consortium of the National Department of Agriculture](https://www.nda.gov.za/index.php/publication/320-crop-estimates).
+  
+-	**Blue water irrigation demand** was calculated using the Google Earth Engine, drawing on two datasets: the [Moderate Resolution Imaging Spectroradiometer (MODIS) MOD16A2GF evapotranspiration product](https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD16A2GF) and the [Climate Hazards Group InfraRed Precipitation with Station data (CHIRPS)](https://developers.google.com/earth-engine/datasets/catalog/UCSB-CHG_CHIRPS_DAILY).
+  
+-	**Monthly surface water anomalies** were derived from a [surface water area dataset based on Sentinel-2 satellite imagery, spanning 2016 to the present](http://sbdvc.ekodata.co.za/Home/About). This dataset forms part of the National Water Quantity (NWQ) information, available via the [mzansiAmanzi platform](https://www.water-southafrica.co.za/), and was developed by [GeoTerraImage](https://geoterraimage.com/) and [EkoSource](https://www.ekosource.co.za/). Data access was granted by the [South African National Space Agency (SANSA)](https://www.sansa.org.za/).
+  
+-	**Groundwater harvest potential** is a national dataset developed by the Department of Water and Sanitation (DWS), which granted access to this [data](https://www.dws.gov.za/Groundwater/data/GWharvest.aspx).
 
 ## 7. Known limitations
 
