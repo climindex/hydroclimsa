@@ -141,6 +141,7 @@ The platform is intended to support a wide range of agricultural stakeholders, i
 
 [RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
 
+Video tutorials will be made available on our YouTube channel: www.youtube.com/@WeatherRiskapp
 
 ## 5. Overview of available indices
 
