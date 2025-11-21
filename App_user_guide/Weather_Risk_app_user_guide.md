@@ -177,6 +177,19 @@ Each index is displayed spatially via the interactive map interface, with a cons
 
 [RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
 
+This category features three indices that describe daily minimum temperature patterns, including general conditions as well as cold events that may affect crops or livestock. All indices include observed data, updated on a near-real-time basis, while forecast data is available for selected indices, including minimum temperature and frost days.
+
+The indices included are:
+
+### Daily minimum temperatures
+
+
+### Frost 
+
+
+### Lowest daily temperature (last 10 days)
+
+
 ### 5.2. High temperature indices
 
 [RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
