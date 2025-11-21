@@ -194,29 +194,66 @@ The indices included are:
 
 [RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
 
+### Daily maximum temperature 
+
+### Heat stress days (last 10 days)
+
+### Highest daily temperature (last 10 days)
+
+
 ### 5.3. Thermal comfort indices
 
 [RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
+
+### Heat Index (Human Thermal Comfort)
+
+### Temperature-Humidity Index (Livestock Thermal Comfort)
 
 ### 5.4. Fire index
 
 [RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
 
+### Fire Danger Index
+
 ### 5.5. Rain indices
 
 [RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
+
+### Daily rainfall
+
+### Number of Rain days (last 30 days)
+
+### Days since last rain (up to 60 days)
+
+### Maximum daily rainfall (last 30 days)
+
+### Total rainfall (last 10 and 30 days)
 
 ### 5.6. Evaporation indices
 
 [RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
 
+### Daily Potential Evapotranspiration 
+
+### Total Potential Evapotranspiration (Last 10 and 30 Days)
+
 ### 5.7. Wind index
 
 [RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
 
+### Damaging Winds
+
 ### 5.8. Water indices
 
 [RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
+
+### Irrigation extent per quaternary catchment
+
+### Blue water irrigation demand
+
+### Monthly surface water anomaly
+
+### Groundwater Harvest Potential
 
 ## 6. Input data to calculate the indices
 
