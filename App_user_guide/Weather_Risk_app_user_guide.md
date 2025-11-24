@@ -46,7 +46,7 @@ The Weather Risk app is intended to assist with short-term agricultural planning
 
     4.1. [Accessing video tutorials](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#41-accessing-video-tutorials)
 
-5. [Overview of available indices](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#5-overview-of-available-indices)
+5. [Available indices]()
 
     5.1. [Low temperature indices](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#51-low-temperature-indices)
 
@@ -143,7 +143,7 @@ The platform is intended to support a wide range of agricultural stakeholders, i
 
 Video tutorials will be made available on our YouTube channel: www.youtube.com/@WeatherRiskapp
 
-## 5. Overview of available indices
+## 5. Available indices
 
 [RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
 
