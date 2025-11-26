@@ -209,7 +209,7 @@ The indices included are:
 
 ### Temperature-Humidity Index (Livestock Thermal Comfort)
 
-### 5.4. Fire index
+### 5.4. Fire danger indices
 
 [RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
 
@@ -229,7 +229,7 @@ The indices included are:
 
 ### Total rainfall (last 10 and 30 days)
 
-### 5.6. Evaporation indices
+### 5.6. Evaportranspiration indices
 
 [RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
 
@@ -237,13 +237,13 @@ The indices included are:
 
 ### Total Potential Evapotranspiration (Last 10 and 30 Days)
 
-### 5.7. Wind index
+### 5.7. Wind indices
 
 [RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
 
 ### Damaging Winds
 
-### 5.8. Water indices
+### 5.8. Water availability indices
 
 [RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
 
