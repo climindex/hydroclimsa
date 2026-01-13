@@ -194,6 +194,10 @@ The indices included are:
 
 [RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
 
+This category features three indices that describe daily maximum temperature patterns, including general conditions as well as hot events that may affect crops or livestock. All indices include observed data, updated on a near-real-time basis, while forecast data is available only for the daily maximum temperature index.
+
+The indices included are:
+
 ### Daily maximum temperature 
 
 ### Heat stress days (last 10 days)
@@ -205,6 +209,10 @@ The indices included are:
 
 [RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
 
+This category features two main indices that describe daily thermal comfort/stress conditions for people and livestock, supporting decisions that help manage heat stress and protect wellbeing. Both indices include observed data, updated on a near-real-time basis, and have forecast data available for up to 7 days ahead. 
+
+The indices included are:
+
 ### Heat Index (Human Thermal Comfort)
 
 ### Temperature-Humidity Index (Livestock Thermal Comfort)
@@ -213,11 +221,19 @@ The indices included are:
 
 [RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
 
+This category features one index that describes daily fire risk conditions based on a combination of weather variables. The index includes observed data, updated on a near-real-time basis, and also provides a 7-day forecast to support fire preparedness and response.
+
+The index included is:
+
 ### Fire Danger Index
 
 ### 5.5. Rain indices
 
 [RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
+
+This category features five indices that describe daily and short-term historical rainfall patterns, offering insights into both recent rainfall activity and dry spells that may affect crops and livestock. All indices include observed data, updated on a near-real-time basis (typically with a one-day delay), while forecast data is available only for the daily rainfall index.
+
+The indices included are:
 
 ### Daily rainfall
 
@@ -233,6 +249,10 @@ The indices included are:
 
 [RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
 
+This category features two indices that describe daily and short-term historical potential evapotranspiration (PET) patterns, providing insight into recent evaporation and crop water demand conditions that may affect farm operations and grazing resources. All indices include observed data, updated on a near-real-time basis (typically with a one-day delay), while forecast data is available only for the daily PET index
+
+The indices included are:
+
 ### Daily Potential Evapotranspiration 
 
 ### Total Potential Evapotranspiration (Last 10 and 30 Days)
@@ -241,11 +261,19 @@ The indices included are:
 
 [RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
 
+This category features one index that describes the occurrence of damaging winds, with both observed and forecast data to help users manage wind-related agricultural risks. This index is still under construction and will be added to the platform in a future update.
+
+The index included is:
+
 ### Damaging Winds
 
 ### 5.8. Water availability indices
 
 [RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
+
+This category includes four indices designed to support the management of surface and groundwater resources in relation to weather conditions. These indices are based on the datasets descributed under [6.2. Water availability indices](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#62-water-availability-indices).
+
+The indices included are:
 
 ### Irrigation extent per quaternary catchment
 
