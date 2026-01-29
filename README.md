@@ -19,7 +19,7 @@ Ultimately, the app serves as a national-scale resource to help agricultural use
 ## The Weather Risk App
 The Weather Risk app is a freely accessible web-based tool designed to deliver weather and water availability indices relevant to agriculture across South Africa. It integrates near–real-time observational data, short-term forecasts, and key water indicators to support informed decision-making at daily to weekly timescales. Although the primary platform is free to use, future developments may include optional paid products.
 
-The app can be accessed via https://www.weatherrisk.arc.agric.za/
+The app can be accessed via www.weatherrisk.arc.agric.za/
 
 All supporting information and documentation are available via the [App_user_guide](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md)
 
