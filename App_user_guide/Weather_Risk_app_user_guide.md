@@ -116,7 +116,7 @@ The platform is intended to support a wide range of agricultural stakeholders, i
 
 **To access the Weather Risk site, open the following URL in a web browser:**
 
-[link coming]
+www.weatherrisk.arc.agric.za/
 
 **The site has been tested and works best on the following web browsers:**
 
