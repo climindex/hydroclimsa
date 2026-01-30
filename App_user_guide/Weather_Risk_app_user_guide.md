@@ -188,6 +188,39 @@ The indices included are:
 
 ### Daily minimum temperatures
 
+**Description:**
+
+This index represents the absolute lowest temperature recorded each day, measured in °C. It provides a daily map of observed minimum temperature conditions and includes a 7-day forecast, useful for identifying cold nights and assessing potential frost risk.
+
+**Agricultural relevance and practical application:**
+
+Minimum temperature is a key indicator of frost and cold stress risk. For crop farmers, the index helps assess vulnerability during early growth or flowering stages. If temperatures are forecast to fall below 2°C, a vegetable farmer might delay planting or take protective action, such as covering seedlings. For livestock farmers, the index supports cold-weather planning. A farmer may, for example, provide additional feed or shelter to reduce cold stress on young or vulnerable animals during anticipated cold nights.
+
+**Data source and update frequency:**
+
+This index is derived from observed daily minimum temperature data, updated on a near-real-time basis (typically one day behind). Forecast data is available for up to 7 days ahead and is displayed as daily values. The final forecast day shows the average minimum temperature over the full 7-day period.
+
+**Map interpretation:**
+
+The index is displayed as a colour gradient map, with cooler minimum temperatures shown in blue to purple tones, and warmer values in yellow to red. Both the observed and forecast maps use this same colour scheme and temperature scale, making it easy to compare current and expected conditions. The legend, located in the bottom-right corner of the map interface, indicates the temperature scale in °C.
+
+An example of the observed minimum temperature is shown in Figure ??, while the corresponding forecast map is shown in Figure ??.
+
+<p align="center">
+  <img src="https://github.com/climindex/hydroclimsa/blob/main/Figures/Daily-min-temp-observed.JPG" 
+       alt="Daily-min-temp-observed" 
+       width="200">
+</p>
+
+Figure ??: Observed daily minimum temperature for 16 June 2025, based on near-real-time data.
+
+<p align="center">
+  <img src="https://github.com/climindex/hydroclimsa/blob/main/Figures/Daily-min-temp-forecast.JPG" 
+       alt="Daily-min-temp-forecast" 
+       width="200">
+</p>
+
+Figure ??: Forecast daily minimum temperature for 21 August 2025, representing Day 4 of the forecast issued on 18 August 2025.
 
 ### Frost 
 
@@ -271,6 +304,8 @@ This category features one index that describes the occurrence of damaging winds
 The index included is:
 
 ### Damaging Winds
+
+This index is still under development.
 
 ### 5.8. Water availability indices
 
