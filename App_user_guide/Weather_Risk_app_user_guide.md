@@ -333,7 +333,7 @@ This index is derived from observed daily minimum temperature data, updated on a
 
 The index is displayed as a colour gradient map, with cooler minimum temperatures shown in blue to purple tones, and warmer values in yellow to red. Both the observed and forecast maps use this same colour scheme and temperature scale, making it easy to compare current and expected conditions. The legend, located in the bottom-right corner of the map interface, indicates the temperature scale in °C.
 
-An example of the observed minimum temperature is shown in Figure ??, while the corresponding forecast map is shown in Figure ??.
+An example of the observed minimum temperature is shown in Figure 8, while the corresponding forecast map is shown in Figure 9.
 
 <p align="center">
   <img src="https://github.com/climindex/hydroclimsa/blob/main/Figures/Daily-min-temp-observed.JPG" 
@@ -342,7 +342,7 @@ An example of the observed minimum temperature is shown in Figure ??, while the 
 </p>
 
 <p align="center">
-Figure ??: Observed daily minimum temperature for 28 January 2026, based on near-real-time data.
+Figure 8: Observed daily minimum temperature for 28 January 2026, based on near-real-time data.
 </p>
 
 <p align="center">
@@ -352,10 +352,35 @@ Figure ??: Observed daily minimum temperature for 28 January 2026, based on near
 </p>
 
 <p align="center">
-Figure ??: Forecast daily minimum temperature for 29 January 2026, representing Day 1 of the forecast issued on 29 January 2026.
+Figure 9: Forecast daily minimum temperature for 29 January 2026, representing Day 1 of the forecast issued on 29 January 2026.
 </p>
 
+
+
 ### Frost 
+
+**Description:**
+
+This index shows the occurrence of frost, classified into three severity levels based on daily minimum temperature thresholds:
+•	Light frost: below 2°C
+•	Moderate frost: below 0°C
+•	Severe frost: below –2°C
+
+Both the observed and forecast versions use these same categories. In the forecast, the index includes a spatial extent map showing where each severity level is expected, and also provides the number of hours per day in each frost category. This allows users to assess not only where frost is likely to occur, but also how long those conditions may persist.
+
+**Agricultural relevance and practical application:**
+
+This index provides critical guidance for managing the risks posed by frost events. For crop farmers, it supports decisions around frost protection during vulnerable crop stages such as germination, flowering, or fruiting. For example, a fruit farmer expecting several hours of severe frost may decide to use frost mitigation measures like overhead irrigation or frost cloths. For livestock farmers, it helps identify days and locations with elevated cold stress risk, particularly where frost is prolonged. A livestock farmer may use this information to move animals to shelter or adjust feeding plans to maintain body heat during forecasted frost periods.
+
+**Data source and update frequency:**
+
+The frost index is derived from observed daily minimum temperature data, updated on a near-real-time basis (typically with a one-day delay). Forecast data is available for up to 7 days ahead. For each forecast day, four maps are provided: one showing the spatial extent of expected frost (classified into light, moderate, or severe), and three showing the number of hours per day below each frost threshold (< 2°C, < 0°C, and < –2°C). Each forecast type also includes a final summary map presenting the total extent or duration over the full 7-day period.
+
+**Map interpretation:**
+
+Frost severity is visualised using a consistent colour-coded scale across both observed and forecast maps. In observed maps, frost is shown using shades of light to dark blue, with darker tones indicating more severe frost. Forecast maps include a daily spatial extent map based on forecast data, using the same categories and colour scheme as the observed frost map to show where light, moderate, or severe frost is expected. Additional maps display the number of hours per day below each frost threshold, and a final summary map presents the total frost duration or extent over the 7-day forecast period for each type.
+
+Figures 10 and 11 show an observed and forecasted frost event, respectively. Figure 6 illustrates the forecasted number of hours of light frost, which follows the same format as maps for moderate and severe frost categories.
 
 
 ### Lowest daily temperature (last 10 days)
