@@ -142,6 +142,116 @@ www.weatherrisk.arc.agric.za/
 
 [RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
 
+The Weather Risk app features a user-friendly interface designed to help users easily explore a range of weather- and water-availability indices. This section provides an overview of the core navigation functions that are consistent throughout the platform.
+
+Upon opening the Weather Risk site in a web browser, users are directed to the home dashboard, which includes an interactive base map and side menus containing tabs for the available indices (Figure 1).
+
+Key navigation features displayed on the home dashboard (Figure 1) include:
+1)	**Base map:** an interactive map interface used to display selected index layers.
+2)	**Left-hand action menu:** a tab-based navigation panel that allows users to switch between different index categories and access the information tab.
+3)	**Top-right layer selector:** an interactive layer control used to toggle between base maps (e.g. Google Earth, Google Streets, or a Digital Elevation Model (DEM)), switch cadastral boundaries on or off (e.g. South African provinces, municipalities, and towns), and enable or disable weather station layers (e.g. 10-day rainfall totals, 30-day rainfall totals, and quality-controlled (QC) stations).
+
+
+<p align="center">
+  <img src="https://github.com/climindex/hydroclimsa/blob/main/Figures/Landing-page-labelled.jpg" 
+       alt="Landing-page-labelled" 
+       width="800">
+</p>
+<p align="center">
+Figure 1: Labelled home dashboard of the Weather Risk web-based application, highlighting the main navigation and layer-selection features.
+</p>
+
+**Interacting with the base map**
+
+Users can interact with the base map (1 in Figure 1) in the following ways:
+
+1)	Scroll forward with the mouse scroll wheel to zoom in at the cursor location.
+2)	Scroll backward with the mouse scroll wheel to zoom out at the cursor location.
+3)	Use a two-finger pinch gesture on a touchpad to zoom in.
+4)	Use a two-finger spread gesture on a touchpad to zoom out.
+5)	Double-click on the map to zoom in at the cursor location.
+6)	When zoomed in, right-click and drag with the mouse, or click and drag with one finger on a touchpad, to pan across the map.
+
+**Using the left-hand action menu**
+
+The left-hand action menu (Figure 2) is used to navigate between different index groups and to display selected index layers on the base map (1; Figure 1).
+
+<p align="center">
+  <img src="https://github.com/climindex/hydroclimsa/blob/main/Figures/Left-hand_action_menu-labelled.jpg" 
+       alt="Left-hand_action_menu-labelled" 
+       width="400">
+</p>
+<p align="center">
+Figure 2: Labelled left-hand action menu showing the different index tabs, user guide section numbers, and the information tab.
+</p>
+
+Upon selecting an index tab, users can hover over an index selection button to display a pop-up description of the index. Alternatively, selecting the (i) icon next to the index name navigates directly to the relevant section of the user guide for more detailed information (Figure 3). In the example shown, the user hovers over the Observed button for the Daily minimum temperature index.
+
+<p align="center">
+  <img src="https://github.com/climindex/hydroclimsa/blob/main/Figures/Index-info-mouse-hover.jpg" 
+       alt="Index-info-mouse-hover" 
+       width="600">
+</p>
+<p align="center">
+Figure 3: Example of accessing the low-temperature indices tab, showing a hover action over the Daily minimum temperature index selector button to display the index description pop-up.
+</p>
+
+**Displaying index layers**
+
+To display an index layer, users must first select the desired date using the date selector and then click the corresponding index selection button (Figure 4). Observed weather indices typically have an update delay of approximately two days.
+
+Users can adjust the transparency of the displayed layer using the opacity slider located on the right-hand side of the map, below the top-right layer selector (Figure 4). Clicking anywhere on the map displays the pixel value at that location, as illustrated by the example northeast of Upington. When an index layer is displayed, the corresponding legend appears in the bottom-right corner of the map.
+
+ <p align="center">
+  <img src="https://github.com/climindex/hydroclimsa/blob/main/Figures/Example-selected-index-opcity-pixel-value-date.JPG" 
+       alt="Example-selected-index-opcity-pixel-value-date" 
+       width="800">
+</p>
+<p align="center">
+Figure 4: Example display of the Daily minimum temperature index for 28 January 2026, showing the date selector for observed weather indices, an example pixel value, the opacity slider, and the index legend.
+</p>
+
+**Viewing forecast indices**
+
+Where forecast data are available for a specific index, users can use the forecast toggle slider to view different daily forecast periods (Figure 5). Clicking along the slider allows selection of individual forecast days from day 1 to day 7. For some indices, a 7-day total or average forecast can be viewed by selecting the far-right end of the slider. The index selection button can be clicked either before or after selecting the desired forecast day.
+
+ <p align="center">
+  <img src="https://github.com/climindex/hydroclimsa/blob/main/Figures/Low-temperature-forecast-toggle.JPG" 
+       alt="Low-temperature-forecast-toggle" 
+       width="200">
+</p>
+<p align="center">
+Figure 5: Example use of the forecast toggle for the Daily minimum temperature forecast, with the slider set to 31 January 2026 (day 3 of the forecast issued on 29 January 2026).
+</p>
+
+**Water availability indices**
+
+For water-availability indices, users interact with the map in the same way as for weather indices, including adjusting opacity and viewing pixel values. However, date selection is handled via drop-down menus rather than calendar selectors, as shown in Figure 6.
+
+
+ <p align="center">
+  <img src="https://github.com/climindex/hydroclimsa/blob/main/Figures/Date-selectors-water-indices.jpg" 
+       alt="Date-selectors-water-indices" 
+       width="500">
+</p>
+<p align="center">
+Figure 6: Example of date selection using drop-down menus within the water-availability indices tab.
+</p>
+
+**Accessing additional information**
+
+Finally, users wishing to obtain further information about the Weather Risk platform can select the Information tab from the left-hand action menu (Figure 7). This section provides background information on the platform, data sources, index descriptions, and links to supporting documentation, including the user guide.
+
+
+  <p align="center">
+  <img src="https://github.com/climindex/hydroclimsa/blob/main/Figures/Information-tab.JPG" 
+       alt="Information-tab" 
+       width="500">
+</p>
+<p align="center">
+Figure 7: Screenshot of the information tab.
+</p>
+
 ### 4.1. Accessing video tutorials
 
 [RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
