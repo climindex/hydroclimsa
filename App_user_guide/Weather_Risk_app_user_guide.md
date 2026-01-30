@@ -152,6 +152,7 @@ Key navigation features displayed on the home dashboard (Figure 1) include:
 3)	**Top-right layer selector:** an interactive layer control used to toggle between base maps (e.g. Google Earth, Google Streets, or a Digital Elevation Model (DEM)), switch cadastral boundaries on or off (e.g. South African provinces, municipalities, and towns), and enable or disable weather station layers (e.g. 10-day rainfall totals, 30-day rainfall totals, and quality-controlled (QC) stations).
 
 
+
 <p align="center">
   <img src="https://github.com/climindex/hydroclimsa/blob/main/Figures/Landing-page-labelled.jpg" 
        alt="Landing-page-labelled" 
@@ -160,6 +161,7 @@ Key navigation features displayed on the home dashboard (Figure 1) include:
 <p align="center">
 Figure 1: Labelled home dashboard of the Weather Risk web-based application, highlighting the main navigation and layer-selection features.
 </p>
+
 
 **Interacting with the base map**
 
@@ -171,6 +173,7 @@ Users can interact with the base map (1 in Figure 1) in the following ways:
 4)	Use a two-finger spread gesture on a touchpad to zoom out.
 5)	Double-click on the map to zoom in at the cursor location.
 6)	When zoomed in, right-click and drag with the mouse, or click and drag with one finger on a touchpad, to pan across the map.
+
 
 **Using the left-hand action menu**
 
