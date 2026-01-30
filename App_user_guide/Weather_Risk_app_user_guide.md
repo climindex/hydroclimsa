@@ -213,7 +213,7 @@ An example of the observed minimum temperature is shown in Figure ??, while the 
 </p>
 
 <p align="center">
-Figure ??: Observed daily minimum temperature for 16 June 2025, based on near-real-time data.
+Figure ??: Observed daily minimum temperature for 28 January 2026, based on near-real-time data.
 </p>
 
 <p align="center">
@@ -223,7 +223,7 @@ Figure ??: Observed daily minimum temperature for 16 June 2025, based on near-re
 </p>
 
 <p align="center">
-Figure ??: Forecast daily minimum temperature for 21 August 2025, representing Day 4 of the forecast issued on 18 August 2025.
+Figure ??: Forecast daily minimum temperature for 29 January 2026, representing Day 1 of the forecast issued on 29 January 2026.
 </p>
 
 ### Frost 
