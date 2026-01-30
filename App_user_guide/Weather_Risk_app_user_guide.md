@@ -209,7 +209,7 @@ An example of the observed minimum temperature is shown in Figure ??, while the 
 <p align="center">
   <img src="https://github.com/climindex/hydroclimsa/blob/main/Figures/Daily-min-temp-observed.JPG" 
        alt="Daily-min-temp-observed" 
-       width="200">
+       width="600">
 </p>
 
 Figure ??: Observed daily minimum temperature for 16 June 2025, based on near-real-time data.
@@ -217,7 +217,7 @@ Figure ??: Observed daily minimum temperature for 16 June 2025, based on near-re
 <p align="center">
   <img src="https://github.com/climindex/hydroclimsa/blob/main/Figures/Daily-min-temp-forecast.JPG" 
        alt="Daily-min-temp-forecast" 
-       width="200">
+       width="600">
 </p>
 
 Figure ??: Forecast daily minimum temperature for 21 August 2025, representing Day 4 of the forecast issued on 18 August 2025.
