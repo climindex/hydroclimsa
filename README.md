@@ -2,7 +2,7 @@
 
 This platform was developed through a project funded by the Water Research Commission (WRC) titled “Development of a web-based hydrometeorological indices app to support decision-making for weather- and climate-sensitive agricultural activities in South Africa”
 
-<a href="alternative text"><img src="https://github.com/climindex/hydroclimsa/blob/main/Figures/Github_page_pic_updated.png" align="middle" width="desired width" height="desired heigh"></a>
+<a href="alternative text"><img src="https://github.com/climindex/hydroclimsa/blob/main/Figures/Github_page_pic-updated.png" align="middle" width="desired width" height="desired heigh"></a>
 
 ## Project Background
 The agricultural sector is highly sensitive to weather- and climate-related risks. Crop and livestock production can be significantly affected by the timing and intensity of rainfall, the frequency of very hot days, and the availability of water in the landscape. As such, the sector would greatly benefit from easy access to reliable, up-to-date information to support both short-term and seasonal planning and decision-making.
