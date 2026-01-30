@@ -315,9 +315,29 @@ All of the water availability indices are based on datasets obtained from extern
   
 -	**Groundwater harvest potential** is a national dataset developed by the Department of Water and Sanitation (DWS), which granted access to this [data](https://www.dws.gov.za/Groundwater/data/GWharvest.aspx).
 
+
 ## 7. Known limitations
 
 [RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
+
+While every effort is made to provide accurate and up-to-date information, users should be aware of the following limitations when using the Weather Risk platform:
+
+•	**Data coverage, update frequency, and uncertainties**
+
+All indices are available across South Africa but differ in terms of time coverage, update frequency, spatial resolution, and forecast availability. While some indices are based solely on historical data, others also include forecast components to support short-term agricultural planning and decision-making. The platform is operational and publicly accessible, but it is intentionally designed as a continually evolving system, with additional indices, datasets, and features expected to be incorporated over time as new data products become available and research advances.
+
+Weather indices are derived from gridded data surfaces created from weather station observations [Malherbe et al. (2016, Natural Hazards, 80:657-681)](https://doi.org/10.1007/s11069-015-1989-y). As with any interpolation from point-based observations, associated uncertainties are expected. Observed weather indices are provided at a 1 km spatial resolution, offering relatively high spatial detail but not fully capturing farm-scale microclimatic influences such as slope orientation, sheltering, or small water bodies. Forecast-based weather indices are provided at a coarser spatial resolution (12 km), reflecting the resolution of the underlying forecast systems.
+
+Forecast information is included for selected indices to support short-term planning. These forecasts have not yet been fully validated across all regions or seasons, and forecast skill may vary depending on the index, region, time of year, and forecast lead time. In general, shorter lead times (typically less than three days) are more accurate than longer lead times, with forecasts extending up to seven days ahead. Weather indices are typically updated daily, usually with a one- to two-day delay, although occasional delays may occur due to data processing requirements or system maintenance.
+
+Water-availability indices are based on a range of external datasets not produced by ARC-NRE and are provided at varying spatial resolutions, including quaternary catchments and high-resolution gridded products suitable for regional-scale agricultural applications. The reliability and update frequency of these datasets vary by source. Some indices are updated monthly, while others represent longer-term or static conditions. As with weather data, delays in monthly updates may occasionally occur due to processing or maintenance constraints.
+
+•	**Use caution in interpretation**
+
+While the indices provided are intended to support agricultural decision-making, they should always be interpreted alongside local knowledge, on-farm observations, and other advisory inputs. At present, the Weather Risk platform does not provide automated advisories or recommendations; rather, it presents information in the form of indices to support user interpretation and situational awareness. The development of advisory-type features is a planned enhancement for future iterations of the platform.
+
+The ARC-NRE makes every reasonable effort to ensure the accuracy of the data, drawing from sources believed to be reliable. However, it cannot guarantee the completeness or accuracy of the data or the accompanying documentation and accepts no responsibility for any consequences resulting from the use or misuse of the information by individuals or organisations. Users should also be aware that occasional technical interruptions may affect access to the platform, although services are restored as soon as possible following such disruptions.
+
 
 ## 8. Feedback and support
 
