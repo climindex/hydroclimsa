@@ -24,6 +24,7 @@ Agrometeorology Division, Agricultural Research Council – Natural Resources an
 <p align="center">
 Version 1.0 - Initial release (January 2026)
 </p>
+
 ---
 
 Visit the Weather Risk app [Github repository](https://github.com/climindex/hydroclimsa) to find out more about the Weather Risk app and supporting research.
