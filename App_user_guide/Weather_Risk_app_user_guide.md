@@ -362,8 +362,11 @@ Figure 9: Forecast daily minimum temperature for 29 January 2026, representing D
 **Description:**
 
 This index shows the occurrence of frost, classified into three severity levels based on daily minimum temperature thresholds:
+
 •	Light frost: below 2°C
+
 •	Moderate frost: below 0°C
+
 •	Severe frost: below –2°C
 
 Both the observed and forecast versions use these same categories. In the forecast, the index includes a spatial extent map showing where each severity level is expected, and also provides the number of hours per day in each frost category. This allows users to assess not only where frost is likely to occur, but also how long those conditions may persist.
@@ -385,6 +388,24 @@ Figures 10 and 11 show an observed and forecasted frost event, respectively. Fig
 
 ### Lowest daily temperature (last 10 days)
 
+**Description:**
+
+This index represents the lowest daily minimum temperature, measured in °C, recorded over the past 10 days using observed data only. It provides a quick reference to the most extreme recent cold condition within that period.
+
+**Agricultural relevance and practical application:**
+
+This index helps users gauge recent exposure to extreme cold, which is useful for assessing the short-term impact of low temperatures on crops and livestock. For crop farmers, it can be used to evaluate the likelihood of cold-related stress or frost damage, particularly in sensitive growth stages. For example, if the lowest value was –3°C, a farmer might inspect young or flowering crops for signs of frost injury. For livestock farmers, the index can inform decisions on post-event management, such as increasing feed to support recovery from cold stress or monitoring animals more closely for health issues following particularly cold nights.
+
+**Data source and update frequency:**
+
+The index is derived from observed daily minimum temperature data, updated on a near-real-time basis (typically with a one-day delay). It reflects the lowest recorded minimum temperature over the 10 most recent days, recalculated daily for each date in the record.
+
+**Map interpretation:**
+
+The index is displayed as a colour gradient map, with cooler recent extremes shown in blue to purple tones and warmer minimums in yellow to red. The legend, located in the bottom-right corner of the map, indicates the temperature scale in °C.
+
+Figure 13 shows the lowest daily minimum temperature recorded across the region over a recent 10-day period.
+
 
 ### 5.2. High temperature indices
 
@@ -395,6 +416,25 @@ This category features three indices that describe daily maximum temperature pat
 The indices included are:
 
 ### Daily maximum temperature 
+
+**Description:**
+
+This index represents the absolute highest temperature recorded each day, measured in °C. It provides a daily map of observed maximum temperature conditions and includes a 7-day forecast, useful for identifying hot days and assessing potential heat stress risk.
+
+**Agricultural relevance and practical application:**
+
+High daytime temperatures can have serious implications for both crops and livestock. For crop farmers, this index supports the monitoring of heat stress risks, especially during sensitive periods such as flowering or grain filling, when excessive heat can reduce yield and quality. For example, a grain farmer may choose to adjust irrigation schedules or delay planting based on a forecast of consecutive days above 30°C. For livestock farmers, the index provides information on daytime heat exposure, helping to inform decisions such as ensuring animals have access to shade and sufficient water, or adjusting grazing times to cooler parts of the day to reduce heat stress.
+
+**Data source and update frequency:**
+
+This index is derived from observed daily maximum temperature data, updated on a near-real-time basis (typically one day behind). Forecast data is available for up to 7 days ahead and is displayed as daily values. The final forecast day shows the average maximum temperature over the full 7-day period.
+
+**Map interpretation:**
+
+The index is displayed as a colour gradient map, with cooler maximum temperatures shown in blue to purple tones, and warmer values in yellow to red. Both the observed and forecast maps use this same colour scheme and temperature scale, making it easy to compare current and expected conditions. The legend, located in the bottom-right corner of the map interface, indicates the temperature scale in °C.
+
+An example of the observed maximum temperature is shown in Figure 14, while the corresponding forecast map is shown in Figure 15.
+
 
 ### Heat stress days (last 10 days)
 
