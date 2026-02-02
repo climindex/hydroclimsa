@@ -438,6 +438,25 @@ An example of the observed maximum temperature is shown in Figure 14, while the 
 
 ### Heat stress days (last 10 days)
 
+**Description:**
+
+This index represents the number of days with a daily maximum temperature above 30 °C, calculated over the past 10 days. It provides a quick reference to how frequently hot conditions have occurred in the recent past using observed data only.
+
+**Agricultural relevance and practical application:**
+
+Frequent exposure to high temperatures can stress crops and livestock, even if daily values do not reach extreme thresholds. For crop farmers, this index helps identify periods of repeated heat exposure that may affect flowering, pollination, or grain development. For example, if 8 out of the last 10 days exceeded 30 °C, a farmer may inspect crops for signs of heat stress and consider adjusting irrigation to reduce plant stress. For livestock farmers, the index highlights cumulative heat load that may contribute to reduced feed intake, lower productivity, or heat-related illness. A farmer may use this information to increase shade availability or monitor herd behaviour more closely during persistent hot spells.
+
+**Data source and update frequency:**
+
+The index is derived from observed daily maximum temperature data, updated on a near-real-time basis (typically with a one-day delay). It reflects the number of days with maximum temperature above 30 °C during the 10 most recent days, recalculated daily for each date in the record.
+
+**Map interpretation:**
+
+The index is displayed as a shaded map, where the number of heat stress days is represented on a continuous colour scale ranging from yellow through orange to deep red. Areas with no days above 30 °C appear blank (no colour fill). The legend, located in the bottom-right corner of the map interface, provides a reference for interpreting the number of qualifying days.
+
+An example of the observed heat stress days index for a 10-day period is shown in Figure 16.
+
+
 ### Highest daily temperature (last 10 days)
 
 
