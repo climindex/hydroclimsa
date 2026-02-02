@@ -459,6 +459,24 @@ An example of the observed heat stress days index for a 10-day period is shown i
 
 ### Highest daily temperature (last 10 days)
 
+**Description:**
+
+This index represents the highest daily maximum temperature, measured in °C, recorded over the past 10 days using observed data only. It provides a quick reference to the most extreme recent heat condition within that period.
+
+**Agricultural relevance and practical application:**
+
+This index highlights the most intense heat exposure in the recent past, which is important for evaluating crop and livestock stress. For crop farmers, it can help assess the potential impact of extreme heat on yield, particularly during sensitive stages like flowering or grain filling. For example, if the highest temperature in the past 10 days exceeded 38°C, a farmer may inspect crops for heat damage or adjust irrigation to help mitigate lingering effects. For livestock farmers, it draws attention to peak heat conditions that may have caused discomfort, dehydration, or reduced feed intake. Farmers may use this information to evaluate the effectiveness of heat mitigation strategies, such as shaded areas or water availability during hotter days.
+
+**Data source and update frequency:**
+
+The index is derived from observed daily maximum temperature data, updated on a near-real-time basis (typically with a one-day delay). It reflects the highest recorded maximum temperature over the 10 most recent days, recalculated daily for each date in the record.
+
+**Map interpretation:**
+
+The index is displayed as a colour gradient map, where hotter temperatures appear in light to dark red tones, with darker shades indicating more extreme values. The legend, located in the bottom-right corner of the map interface, indicates the temperature scale in °C.
+
+An example of the highest daily temperature recorded for a recent 10-day period is shown in Figure 17.
+
 
 ### 5.3. Thermal comfort indices
 
