@@ -383,8 +383,22 @@ The frost index is derived from observed daily minimum temperature data, updated
 
 Frost severity is visualised using a consistent colour-coded scale across both observed and forecast maps. In observed maps, frost is shown using shades of light to dark blue, with darker tones indicating more severe frost. Forecast maps include a daily spatial extent map based on forecast data, using the same categories and colour scheme as the observed frost map to show where light, moderate, or severe frost is expected. Additional maps display the number of hours per day below each frost threshold, and a final summary map presents the total frost duration or extent over the 7-day forecast period for each type.
 
-Figures 10 and 11 show an observed and forecasted frost event, respectively. Figure 6 illustrates the forecasted number of hours of light frost, which follows the same format as maps for moderate and severe frost categories.
+Figures 10 and 11 show an observed and forecasted frost event, respectively. Figure 12 illustrates the forecasted number of hours of light frost, which follows the same format as maps for moderate and severe frost categories.
 
+
+<p align="center">
+  <img src="https://github.com/climindex/hydroclimsa/blob/main/Figures/Frost-observed.JPG" 
+       alt="Frost-observed" 
+       width="800">
+</p>
+
+<p align="center">
+Figure 10: Observed frost for 8 August 2025, based on near-real-time data.
+</p>
+
+<p align="center">
+Figures 11 and 12 will be generated when a frost forecast is issued during the cooler months.
+</p>
 
 ### Lowest daily temperature (last 10 days)
 
@@ -406,6 +420,15 @@ The index is displayed as a colour gradient map, with cooler recent extremes sho
 
 Figure 13 shows the lowest daily minimum temperature recorded across the region over a recent 10-day period.
 
+<p align="center">
+  <img src="https://github.com/climindex/hydroclimsa/blob/main/Figures/Lowest_daily_min_temp_obs.JPG" 
+       alt="Lowest_daily_min_temp_obs" 
+       width="800">
+</p>
+
+<p align="center">
+Figure 13: Observed lowest daily minimum temperature recorded over the 10-day period ending on 28 January 2026, based on near-real-time data.
+</p>
 
 ### 5.2. High temperature indices
 
