@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://github.com/climindex/hydroclimsa/blob/main/Figures/Weather_risk_logo_no_background.png" 
-       alt="ARC-WRC logo" 
+  <img src="https://github.com/climindex/hydroclimsa/blob/main/Figures/Weather_risk_logo_no_background_revised.png" 
+       alt="Weather_risk_logo_no_background_revised" 
        width="200">
 </p>
 
