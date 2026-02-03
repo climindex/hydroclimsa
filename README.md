@@ -67,5 +67,8 @@ In addition to the development of the app, the project has produced several rese
 
 Feel free to email Sarah Roffe (RoffeS@arc.agric.za) if you have any comments, requests or questions. 
 
-
-<a href="alternative text"><img src="https://github.com/climindex/hydroclimsa/blob/main/Figures/Logo_github.png" align="middle" width="desired width" height="desired heigh"></a>
+<p align="center">
+  <img src="https://github.com/climindex/hydroclimsa/blob/main/Figures/Logo_github.png" 
+       alt="Logo_github" 
+       width="200">
+</p>
