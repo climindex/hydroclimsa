@@ -58,7 +58,7 @@ The Weather Risk app is intended to assist with short-term agricultural planning
 
     5.3. [Thermal comfort indices](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#53-thermal-comfort-indices)
 
-    5.4. [Fire danger indices](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#54-fire-index)
+    5.4. [Fire danger indices](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#54-fire-danger-indices)
 
     5.5. [Rain indices](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#55-rain-indices)
 
