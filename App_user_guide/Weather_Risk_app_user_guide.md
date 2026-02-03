@@ -210,7 +210,7 @@ Figure 3: Example of accessing the low-temperature indices tab, showing a hover 
 
 To display an index layer, users must first select the desired date using the date selector and then click the corresponding index selection button (Figure 4). Observed weather indices typically have an update delay of approximately two days.
 
-Users can adjust the transparency of the displayed layer using the opacity slider located on the right-hand side of the map, below the top-right layer selector (Figure 4). Clicking anywhere on the map displays the pixel value at that location, as illustrated by the example northeast of Upington. When an index layer is displayed, the corresponding legend appears in the bottom-right corner of the map.
+Users can adjust the transparency of the displayed layer using the opacity slider located on the right-hand side of the map, below the top-right layer selector (Figure 4). Clicking anywhere on the map displays the pixel value at that location, as illustrated by the example northeast of Upington. When an index layer is displayed, the corresponding legend appears in the bottom-right corner of the map, and at the bottom of the map is a scale bar.
 
 
  <p align="center">
@@ -285,7 +285,7 @@ The Weather Risk app provides a suite of weather- and water-related indices desi
 
 The water indices include one index that reflects monthly anomalies in surface water extent derived from satellite-based Earth observation imagery. The remaining indices are based on long-term hydroclimatologies developed from measured or satellite data, providing a historical baseline to assess deviations from typical water availability.
 
-Indices are organised into thematic categories, accessible via the side tab menu on the left of the interface (see [Section 4 Naviation overview](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#4-navigation-overview)). Each category contains one or more indices related to a specific weather element or agricultural risk.
+Indices are organised into thematic categories, accessible via the left-hand action menu of the home dashboard (see [Section 4 Naviation overview](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#4-navigation-overview)). Each category contains one or more indices related to a specific weather element or agricultural risk.
 
 The current index categories include:
 
@@ -356,7 +356,6 @@ Figure 9: Forecast daily minimum temperature for 29 January 2026, representing D
 </p>
 
 
-
 ### Frost 
 
 **Description:**
@@ -400,6 +399,7 @@ Figure 10: Observed frost for 8 August 2025, based on near-real-time data.
 Figures 11 and 12 will be generated when a frost forecast is issued during the cooler months.
 </p>
 
+
 ### Lowest daily temperature (last 10 days)
 
 **Description:**
@@ -430,6 +430,7 @@ Figure 13 shows the lowest daily minimum temperature recorded across the region 
 Figure 13: Observed lowest daily minimum temperature recorded over the 10-day period ending on 28 January 2026, based on near-real-time data.
 </p>
 
+
 ### 5.2. High temperature indices
 
 [RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
@@ -458,6 +459,27 @@ The index is displayed as a colour gradient map, with cooler maximum temperature
 
 An example of the observed maximum temperature is shown in Figure 14, while the corresponding forecast map is shown in Figure 15.
 
+<p align="center">
+  <img src="https://github.com/climindex/hydroclimsa/blob/main/Figures/Daily-max-temp-observed.JPG" 
+       alt="Daily-max-temp-observed" 
+       width="800">
+</p>
+
+<p align="center">
+Figure 14: Observed daily maximum temperature for 29 January 2026, based on near-real-time data.
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/climindex/hydroclimsa/blob/main/Figures/Daily-max-temp-forecast.JPG" 
+       alt="Daily-max-temp-forecast" 
+       width="800">
+</p>
+
+<p align="center">
+Figure 15: Forecast daily maximum temperature for 4 February 2026, representing Day 2 of the forecast issued on 2 February 2026.
+</p>
+
 
 ### Heat stress days (last 10 days)
 
@@ -478,6 +500,16 @@ The index is derived from observed daily maximum temperature data, updated on a 
 The index is displayed as a shaded map, where the number of heat stress days is represented on a continuous colour scale ranging from yellow through orange to deep red. Areas with no days above 30 °C appear blank (no colour fill). The legend, located in the bottom-right corner of the map interface, provides a reference for interpreting the number of qualifying days.
 
 An example of the observed heat stress days index for a 10-day period is shown in Figure 16.
+
+<p align="center">
+  <img src="https://github.com/climindex/hydroclimsa/blob/main/Figures/Heat-stress-days-observed.JPG" 
+       alt="Heat-stress-days-observed" 
+       width="800">
+</p>
+
+<p align="center">
+Figure 16: Observed number of heat stress days (with daily maximum temperature above 30 °C) recorded over the 10-day period ending on 29 January 2026.
+</p>
 
 
 ### Highest daily temperature (last 10 days)
@@ -500,6 +532,16 @@ The index is displayed as a colour gradient map, where hotter temperatures appea
 
 An example of the highest daily temperature recorded for a recent 10-day period is shown in Figure 17.
 
+<p align="center">
+  <img src="https://github.com/climindex/hydroclimsa/blob/main/Figures/Highest_daily_max_temp_obs.JPG" 
+       alt="Highest_daily_max_temp_obs" 
+       width="800">
+</p>
+
+<p align="center">
+Figure 17: Observed highest daily maximum temperature recorded over the 10-day period ending on 29 January 2026, based on near-real-time data.
+</p>
+
 
 ### 5.3. Thermal comfort indices
 
@@ -513,6 +555,7 @@ The indices included are:
 
 ### Temperature-Humidity Index (Livestock Thermal Comfort)
 
+
 ### 5.4. Fire danger indices
 
 [RETURN TO TOP](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#weather-risk-app-user-guide)
@@ -522,6 +565,45 @@ This category features one index that describes daily fire risk conditions based
 The index included is:
 
 ### Fire Danger Index
+
+**Description:**
+
+This index is calculated using the Lowveld Fire Danger Index, which combines temperature, relative humidity, wind speed, and rainfall to assess daily fire risk conditions. It classifies fire danger into five categories: Safe, Moderate, Dangerous, Very Dangerous, and Extremely Dangerous. The index is available for both observed and forecast conditions, providing guidance for current and upcoming fire danger levels.
+
+**Agricultural relevance and practical application:**
+
+This index is an important tool for fire preparedness and response planning. For crop farmers, it can guide the safe scheduling of controlled burns, particularly in areas where residue management or fire breaks are used. For instance, a farmer may postpone a planned burn if the index indicates "Very Dangerous" or "Extremely Dangerous" conditions. For livestock farmers, it provides early warning of conditions that could increase the risk of runaway veld fires. This allows for timely decisions on relocating animals, reinforcing fire breaks, or alerting staff to be on standby during high-risk days.
+
+**Data source and update frequency:**
+
+This index is derived from observed daily weather data, updated on a near-real-time basis (typically with a one-day delay). Forecast data is available for up to 7 days ahead, with one map provided per day. Unlike other indices, there is no final summary map showing a 7-day total or average.
+
+**Map interpretation:**
+
+Fire danger levels are displayed using discrete colour-coded categories, with blue indicating Safe, green for Moderate, yellow for Dangerous, orange for Very Dangerous, and red for Extremely Dangerous conditions. Both the observed and forecast maps use these same categories and colour scheme, allowing users to easily compare current and expected fire danger across the region. The legend, located in the bottom-right corner of the map, provides a reference for interpreting the severity level represented by each colour.
+
+Figures 22 and 23 show observed and forecasted fire danger conditions, respectively.
+
+<p align="center">
+  <img src="https://github.com/climindex/hydroclimsa/blob/main/Figures/Fire-danger-observed.JPG" 
+       alt="Fire-danger-observed" 
+       width="800">
+</p>
+
+<p align="center">
+Figure 22: Observed fire danger conditions for 13 January 2026, based on near-real-time data.
+</p>
+
+<p align="center">
+  <img src="https://github.com/climindex/hydroclimsa/blob/main/Figures/Fire-danger-forecast.JPG" 
+       alt="Fire-danger-forecast" 
+       width="800">
+</p>
+
+<p align="center">
+Figure 23: Forecast fire danger conditions for 2 February 2026, representing Day 1 of the forecast issued on 2 February 2026.
+</p>
+
 
 ### 5.5. Rain indices
 
@@ -533,13 +615,105 @@ The indices included are:
 
 ### Daily rainfall
 
+**Description:**
+
+This index represents the total amount of rainfall recorded each day, measured in mm. It provides a daily map of observed rainfall conditions, as well as a 7-day forecast, helping users assess rainfall variability and track potential wet or dry spells.
+
+**Agricultural relevance and practical application:**
+
+Daily rainfall data is critical for both short-term operational decisions and longer-term planning. For crop farmers, it informs irrigation scheduling, planting and harvesting decisions, and assessments of soil moisture availability. For example, after receiving several consecutive days of rainfall, a farmer might delay further irrigation or plan field access carefully to avoid compaction. For livestock farmers, the index supports grazing management by indicating where pasture conditions may be improving or deteriorating. It also helps track the filling of watering points and alerts farmers to conditions that could lead to waterlogging or erosion, prompting actions such as moving animals from vulnerable areas.
+
+**Data source and update frequency:**
+
+The index is derived from observed daily rainfall data, updated on a near-real-time basis (typically with a one-day delay). Forecast data is available for up to 7 days ahead, provided as daily total rainfall values. The final forecast day includes the total accumulated rainfall expected over the full 7-day period.
+
+**Map interpretation:**
+
+The index is displayed as a colour gradient map, where no and low rainfall amounts appear in beige tones, with increasing rainfall totals shown in shades of light to dark blue, followed by purple and pink for the highest values. Both the observed and forecast maps use the same colour scheme and scale. The legend, located in the bottom-right corner of the map interface, shows rainfall amounts in mm.
+An example of the observed daily rainfall is shown in Figure 24, while the corresponding forecast map is shown in Figure 25.
+
+
 ### Number of Rain days (last 30 days)
+
+**Description:**
+
+This index shows the total number of days with measurable rainfall (≥1 mm) over the past 30 days, based on observed data. It provides an overview of recent rainfall frequency, helping to assess whether an area has experienced consistently wet, variable, or dry conditions over the past month.
+
+**Agricultural relevance and practical application:**
+
+The frequency of rainfall plays a crucial role in soil moisture replenishment, pasture growth, and planning of field operations. For crop farmers, this index helps evaluate cumulative exposure to rain during key stages such as planting or vegetative growth. For example, an area with fewer than 5 rain days over the past month may prompt a farmer to delay planting or consider irrigation support. For livestock farmers, it aids in assessing forage availability and rangeland conditions. A high number of rain days may indicate good pasture growth, while a sharp decline in rainy days could serve as an early warning of drying, prompting changes in grazing rotation or water supply monitoring.
+
+**Data source and update frequency:**
+
+The index is derived from observed daily rainfall data, updated on a near-real-time basis (typically with a one-day delay). For each date in the record, the value reflects the number of rain days during the 30 most recent days, recalculated daily.
+
+**Map interpretation:**
+
+The map uses a colour gradient, where areas with fewer rain days are shown in dark to light brown tones, and areas with more frequent rainfall appear in a mix of light to dark blue-green hues. The legend, located in the bottom-right corner of the map interface, indicates the number of rain days.
+
+An example of the observed number of rain days for a 30-day period is shown in Figure 26.
+
 
 ### Days since last rain (up to 60 days)
 
+**Description:**
+
+This index shows the number of days since the last measurable rainfall event (≥1 mm), based on observed data. It is capped at 60 days and updated daily. The index provides a useful indicator of how long an area has remained dry, which is critical for tracking emerging dry spells and short-term drought conditions.
+
+**Agricultural relevance and practical application:**
+
+This index helps farmers monitor the progression of dry periods and assess their impact on crops, pastures, and water availability. For crop farmers, it can guide decisions on irrigation timing, soil moisture conservation measures, or planting delays. For instance, if no rainfall has been recorded in over 30 days, a farmer may postpone planting rainfed crops or increase mulching to retain moisture. For livestock farmers, it supports decisions around grazing rotation and water supply. A prolonged dry spell may indicate declining pasture quality, prompting early destocking, movement of animals to better-grazed areas, or closer monitoring of borehole and dam levels.
+
+**Data source and update frequency:**
+
+This index is derived from observed daily rainfall data, updated on a near-real-time basis (typically with a one-day delay). For each date, the value reflects the number of consecutive days without rainfall (≥1 mm) leading up to that day, up to a maximum of 60 days.
+
+**Map interpretation:**
+
+The map uses a colour gradient, where areas with fewer dry days appear in light brown to light blue-green tones, while areas with prolonged dryness (e.g., 40–60 days) are shown in medium to dark brown hues. The legend, located in the bottom-right corner of the map interface, indicates the number of dry days.
+
+An example of the number of days since rainfall for a 60-day period is shown in Figure 27.
+
+
 ### Maximum daily rainfall (last 30 days)
 
+**Description:**
+
+This index represents the highest single-day rainfall total (in mm) recorded over the past 30 days, based on observed data. It highlights the most intense rainfall event during this period, providing insight into the potential for recent flood risk or heavy storm impact.
+
+**Agricultural relevance and practical application:**
+
+This index is useful for evaluating the effects of intense rainfall on agricultural systems. For crop farmers, it helps identify areas at risk of erosion, surface runoff, or waterlogging, all of which can damage soil structure and reduce plant health. For example, a farmer who observes a recent extreme rainfall event might inspect fields for ponding or adjust nutrient application schedules to account for leaching. For livestock farmers, the index supports decisions around grazing access and infrastructure maintenance. Heavy rainfall may limit access to paddocks, damage roads or fencing, or increase the risk of animals becoming trapped in wet conditions, prompting changes in movement plans or sheltering arrangements.
+
+**Data source and update frequency:**
+
+This index is derived from observed daily rainfall data, updated on a near-real-time basis (typically with a one-day delay). For each day in the record, the value reflects the maximum recorded daily rainfall over the 30 most recent days, recalculated daily.
+
+**Map interpretation:**
+
+The map uses a colour gradient, where areas with lower maximum rainfall totals are shown in beige to light blue shades, and areas with higher maximum values appear in darker blue, purple, and pink tones. The legend, located in the bottom-right corner of the map interface, indicates rainfall amounts in mm.
+
+An example of the observed maximum daily rainfall for a 30-day period is shown in Figure 28.
+
+
 ### Total rainfall (last 10 and 30 days)
+
+**Description:**
+
+This index shows the cumulative rainfall total (in mm) recorded over the past 10 days and the past 30 days, based on observed data. It provides a simple measure of recent rainfall accumulation, which is important for tracking moisture availability over short to medium time frames.
+
+**Agricultural relevance and practical application:**
+
+Total accumulated rainfall is a key indicator of soil moisture availability and the overall wetness of an area. For crop farmers, this index supports decisions related to planting, irrigation scheduling, and crop water management, especially during early growth stages when moisture is critical. For example, a farmer may use this index to confirm whether conditions are favourable for sowing or whether additional watering is needed. For livestock farmers, the index helps assess rangeland condition and forage growth potential. A low 30-day rainfall total may signal the need to rotate grazing, supplement feed, or monitor watering points more closely to maintain herd health and prevent overgrazing.
+
+**Data source and update frequency:**
+This index is derived from observed daily rainfall data, updated on a near-real-time basis (typically with a one-day delay). For each date in the record, the index displays the total rainfall accumulated over the most recent 10 or 30 days, recalculated daily.
+
+**Map interpretation:**
+The map uses a colour gradient, where lower total rainfall amounts are represented in beige to light blue shades, and higher totals appear in darker blue, purple, and pink tones. The legend, located in the bottom-right corner of the map interface, indicates the total rainfall in mm.
+
+An example of the observed total rainfall for a 10-day and 30-day period are shown in Figure 29 and 30, respectively.
+
 
 ### 5.6. Evaportranspiration indices
 
