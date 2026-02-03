@@ -64,9 +64,9 @@ The Weather Risk app is intended to assist with short-term agricultural planning
 
     5.6. [Potenital Evapotranspiration indices](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#56-evaporation-indices)
 
-    5.7. [Wind indices](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#57-wind-index)
+    5.7. [Wind indices](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#57-wind-indices)
 
-    5.8. [Water availability indices](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#58-water-indices)
+    5.8. [Water availability indices](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#58-water-availability-indices)
 
 6. [Input data to calculate the indices](https://github.com/climindex/hydroclimsa/blob/main/App_user_guide/Weather_Risk_app_user_guide.md#6-input-data-to-calculate-the-indices)
 
