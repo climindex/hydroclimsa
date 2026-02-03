@@ -70,5 +70,5 @@ Feel free to email Sarah Roffe (RoffeS@arc.agric.za) if you have any comments, r
 <p align="center">
   <img src="https://github.com/climindex/hydroclimsa/blob/main/Figures/Logo_github.png" 
        alt="Logo_github" 
-       width="200">
+       width="500">
 </p>
