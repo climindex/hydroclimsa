@@ -31,10 +31,9 @@ As part of this project, we are continously engaging with stakeholders to better
 
 This questionnaire is designed to help the ARC Agrometeorology Division understand how stakeholders currently use weather and climate information, which formats and indices are most useful, and what constraints they face in accessing or applying this information. In turn it can help us strengthen the weather and climate services we offer. Please contribute to answering this questionnaire, accesible via: https://forms.gle/vume1JRK3DG77RP67
 
-* We also request that users of the Weather Risk App complete a user feedback questionnaire (coming soon):
+* We also request that users of the Weather Risk App complete a user feedback questionnaire:
 
-This evaluation form will collect feedback on the usability, functionality, and relevance of the hydrometeorological indices app to guide future improvements.
-Link will be shared once available.
+This evaluation form collects feedback on the usability, functionality, and relevance of the hydrometeorological indices app to guide future improvements. Please contribute to answering this questionnaire, accessible via: https://forms.gle/z2aSdZhHvhPqwRHh7
 
 
 ## Project outputs 
