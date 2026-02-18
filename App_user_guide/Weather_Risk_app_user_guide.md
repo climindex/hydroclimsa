@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://github.com/climindex/hydroclimsa/blob/main/Figures/Weather_risk_logo_no_background_revised.png" 
-       alt="Weather_risk_logo_no_background_revised" 
-       width="200">
-</p>
-
 <div align="center">
   <h1>Weather Risk App User Guide</h1>
 </div>
